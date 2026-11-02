@@ -1,0 +1,1001 @@
+﻿id_paciente;nome_completo;data_nascimento;idade;telefone;linha_de_cuidado_final;status_LC;pendencias;ultimo_atendimento_mfc
+PAC_0001;Daniela Souza 13;30/06/1961;65;(11) 95012-4657;DM;Pendente;Avaliação nutricional pendente;10/06/2026
+PAC_0002;Carlos Oliveira 85;27/10/1981;45;(11) 91488-2535;DM;Em dia;Nenhuma pendencia ativa;06/06/2026
+PAC_0003;Gabriel Costa 93;11/02/1964;62;(11) 97873-4611;Sobrepeso e Obesidade;Pendente;Exames laboratoriais atrasados;17/09/2026
+PAC_0004;Patricia Gomes 53;23/08/1991;35;(11) 94527-6514;HAS;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0005;Mariana Ribeiro 87;18/10/1992;34;(11) 98527-9785;HAS;Abandono;Sem contato ha mais de 180 dias na linha;08/06/2026
+PAC_0006;Juliana Rodrigues 90;14/05/1969;57;(11) 94150-2139;HAS;Pendente;Consulta médica semestral pendente;29/08/2026
+PAC_0007;Daniela Souza 58;23/03/1991;35;(11) 96977-3664;DLP;Em dia;Nenhuma pendencia ativa;01/05/2026
+PAC_0008;Carlos Oliveira 87;20/08/1968;58;(11) 99751-5010;DM;Em dia;Nenhuma pendencia ativa;17/05/2026
+PAC_0009;Vanessa Ramos 38;03/06/1965;61;(11) 91916-4752;HAS;Abandono;Sem contato ha mais de 180 dias na linha;11/10/2026
+PAC_0010;Gabriel Costa 82;11/06/1952;74;(11) 94483-9179;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;21/09/2026
+PAC_0011;Igor Ferreira 27;26/01/1993;33;(11) 99830-5304;Saúde Mental;Pendente;Avaliação nutricional pendente;01/09/2026
+PAC_0012;Eduardo Pereira 75;28/09/1977;49;(11) 91771-2796;DM;Pendente;Avaliação nutricional pendente;11/10/2026
+PAC_0013;Nicolas Martins 58;21/03/1970;56;(11) 99669-5119;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0014;Daniela Souza 97;19/02/1952;74;(11) 95371-6573;HAS;Em dia;Nenhuma pendencia ativa;27/10/2026
+PAC_0015;Igor Ferreira 74;18/08/1960;66;(11) 99317-2743;Saúde Mental;Em dia;Nenhuma pendencia ativa;25/05/2026
+PAC_0016;Gabriel Costa 29;21/08/1985;41;(11) 99837-9689;HAS;Pendente;Consulta médica semestral pendente;Sem registro
+PAC_0017;Mariana Ribeiro 49;11/10/1993;33;(11) 94946-2290;HAS;Pendente;Exames laboratoriais atrasados;13/06/2026
+PAC_0018;Eduardo Pereira 26;18/03/1966;60;(11) 93705-5342;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;03/09/2026
+PAC_0019;Vanessa Ramos 98;02/06/1996;30;(11) 97537-7118;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;25/08/2026
+PAC_0020;Helena Carvalho 18;01/11/1987;39;(11) 94770-4608;HAS;Em dia;Nenhuma pendencia ativa;30/08/2026
+PAC_0021;Carlos Oliveira 14;03/06/1953;73;(11) 92160-9423;DM;Em dia;Nenhuma pendencia ativa;11/06/2026
+PAC_0022;Eduardo Pereira 83;17/03/1972;54;(11) 94981-8749;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0023;Patricia Gomes 55;16/04/1981;45;(11) 98651-1887;Saúde Mental;Pendente;Avaliação nutricional pendente;Sem registro
+PAC_0024;Nicolas Martins 53;24/09/1957;69;(11) 95073-4139;DM;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0025;Fernanda Lima 45;09/07/1979;47;(11) 92235-8260;Gestantes;Em dia;Nenhuma pendencia ativa;11/06/2026
+PAC_0026;Ana Silva 21;22/07/1949;77;(11) 93724-7658;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;12/10/2026
+PAC_0027;Fernanda Lima 58;20/04/2008;18;(11) 95345-8454;DLP;Em dia;Nenhuma pendencia ativa;07/06/2026
+PAC_0028;Sabrina Castro 29;10/06/1996;30;(11) 94566-1958;Gestantes;Pendente;Exames laboratoriais atrasados;13/10/2026
+PAC_0029;Bruno Santos 84;01/03/1978;48;(11) 99701-3579;HAS;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0030;Fernanda Lima 18;12/10/1970;56;(11) 94853-7615;HAS;Abandono;Sem contato ha mais de 180 dias na linha;01/06/2026
+PAC_0031;Yasmin Rocha 15;05/10/1969;57;(11) 97868-9565;DLP;Abandono;Sem contato ha mais de 180 dias na linha;27/04/2026
+PAC_0032;Lucas Almeida 40;21/04/1992;34;(11) 93144-5915;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;09/10/2026
+PAC_0033;Ana Silva 68;31/01/1969;57;(11) 92638-2200;Gestantes;Em dia;Nenhuma pendencia ativa;30/07/2026
+PAC_0034;Carlos Oliveira 41;19/06/1985;41;(11) 93584-8179;Gestantes;Pendente;Avaliação nutricional pendente;13/05/2026
+PAC_0035;Thiago Moura 11;06/02/1966;60;(11) 95905-2697;DM;Em dia;Nenhuma pendencia ativa;20/04/2026
+PAC_0036;Vanessa Ramos 29;19/06/1991;35;(11) 94450-6617;DM;Pendente;Consulta médica semestral pendente;24/08/2026
+PAC_0037;Bruno Santos 21;13/04/1968;58;(11) 95533-1722;HAS;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0038;Igor Ferreira 30;05/04/1961;65;(11) 98007-1158;HAS;Em dia;Nenhuma pendencia ativa;19/09/2026
+PAC_0039;Vanessa Ramos 14;14/05/1955;71;(11) 93426-8041;DM;Em dia;Nenhuma pendencia ativa;17/10/2026
+PAC_0040;Mariana Ribeiro 36;12/07/1965;61;(11) 92684-6794;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;22/05/2026
+PAC_0041;Eduardo Pereira 40;28/08/1953;73;(11) 93900-7755;HAS;Em dia;Nenhuma pendencia ativa;14/07/2026
+PAC_0042;Helena Carvalho 44;14/11/1997;28;(11) 92771-7267;HAS;Abandono;Sem contato ha mais de 180 dias na linha;02/07/2026
+PAC_0043;Mariana Ribeiro 49;25/07/1956;70;(11) 94652-1387;Saúde Mental;Em dia;Nenhuma pendencia ativa;10/10/2026
+PAC_0044;Igor Ferreira 54;01/03/1967;59;(11) 97548-9785;DLP;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0045;Igor Ferreira 32;03/07/1971;55;(11) 91626-2776;Gestantes;Em dia;Nenhuma pendencia ativa;08/08/2026
+PAC_0046;Patricia Gomes 87;05/03/1946;80;(11) 92894-7311;Gestantes;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0047;Patricia Gomes 10;12/02/1975;51;(11) 94228-6967;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;04/08/2026
+PAC_0048;Yasmin Rocha 50;14/09/1966;60;(11) 95920-9308;DLP;Pendente;Consulta médica semestral pendente;13/08/2026
+PAC_0049;Vanessa Ramos 26;07/04/1996;30;(11) 97211-3851;Gestantes;Pendente;Consulta médica semestral pendente;27/10/2026
+PAC_0050;Juliana Rodrigues 46;03/04/1995;31;(11) 96279-8618;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;28/06/2026
+PAC_0051;Fernanda Lima 94;15/06/2003;23;(11) 99445-6491;HAS;Abandono;Sem contato ha mais de 180 dias na linha;08/05/2026
+PAC_0052;Juliana Rodrigues 38;09/08/1957;69;(11) 93414-1400;HAS;Em dia;Nenhuma pendencia ativa;09/10/2026
+PAC_0053;Rafael Barbosa 63;02/01/1952;74;(11) 94185-7291;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0054;Ana Silva 23;15/04/1959;67;(11) 94585-3881;Saúde Mental;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0055;Helena Carvalho 25;06/09/1979;47;(11) 98612-9702;Gestantes;Pendente;Consulta médica semestral pendente;26/04/2026
+PAC_0056;Thiago Moura 64;12/02/1955;71;(11) 98305-3607;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;18/04/2026
+PAC_0057;Helena Carvalho 91;17/02/1991;35;(11) 98939-4919;DLP;Em dia;Nenhuma pendencia ativa;28/08/2026
+PAC_0058;Igor Ferreira 52;08/02/1988;38;(11) 92320-3267;DM;Em dia;Nenhuma pendencia ativa;30/04/2026
+PAC_0059;Gabriel Costa 18;18/04/1982;44;(11) 96421-9890;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;12/07/2026
+PAC_0060;Nicolas Martins 84;30/11/1947;78;(11) 91320-7232;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;18/04/2026
+PAC_0061;Nicolas Martins 63;08/02/1974;52;(11) 94613-8999;DM;Em dia;Nenhuma pendencia ativa;20/07/2026
+PAC_0062;Lucas Almeida 95;23/04/1965;61;(11) 93704-8657;DM;Abandono;Sem contato ha mais de 180 dias na linha;19/07/2026
+PAC_0063;William Cunha 82;03/11/1966;60;(11) 92375-8022;DM;Abandono;Sem contato ha mais de 180 dias na linha;22/08/2026
+PAC_0064;Nicolas Martins 51;22/03/1995;31;(11) 96355-6529;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;12/07/2026
+PAC_0065;Igor Ferreira 20;04/11/1978;48;(11) 99837-1853;DLP;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0066;Bruno Santos 13;17/07/1948;78;(11) 94266-1333;Gestantes;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0067;Daniela Souza 82;01/08/1948;78;(11) 98619-5198;DLP;Em dia;Nenhuma pendencia ativa;19/04/2026
+PAC_0068;Daniela Souza 30;15/06/1947;79;(11) 92771-1420;DLP;Pendente;Consulta médica semestral pendente;27/04/2026
+PAC_0069;Gabriel Costa 19;27/11/1970;55;(11) 94978-2669;Saúde Mental;Pendente;Avaliação nutricional pendente;27/09/2026
+PAC_0070;William Cunha 15;12/02/1986;40;(11) 98018-7071;HAS;Em dia;Nenhuma pendencia ativa;12/07/2026
+PAC_0071;Sabrina Castro 23;11/05/1981;45;(11) 98532-3506;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;14/05/2026
+PAC_0072;Igor Ferreira 88;16/02/1957;69;(11) 98921-8616;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;06/08/2026
+PAC_0073;Helena Carvalho 21;25/03/1991;35;(11) 94995-8613;Gestantes;Pendente;Consulta médica semestral pendente;23/06/2026
+PAC_0074;Lucas Almeida 33;28/07/1977;49;(11) 96813-5232;DLP;Em dia;Nenhuma pendencia ativa;18/08/2026
+PAC_0075;Vanessa Ramos 11;09/08/1975;51;(11) 92402-4954;Saúde Mental;Em dia;Nenhuma pendencia ativa;27/08/2026
+PAC_0076;Sabrina Castro 92;11/03/1963;63;(11) 98342-1282;HAS;Em dia;Nenhuma pendencia ativa;26/08/2026
+PAC_0077;Juliana Rodrigues 94;11/05/1971;55;(11) 98753-9698;DLP;Em dia;Nenhuma pendencia ativa;04/08/2026
+PAC_0078;Mariana Ribeiro 99;28/06/1979;47;(11) 96023-5118;DM;Em dia;Nenhuma pendencia ativa;27/09/2026
+PAC_0079;Vanessa Ramos 98;02/08/1997;29;(11) 94545-8933;DLP;Pendente;Avaliação nutricional pendente;02/10/2026
+PAC_0080;Gabriel Costa 47;09/05/1994;32;(11) 93939-5952;HAS;Pendente;Exames laboratoriais atrasados;14/10/2026
+PAC_0081;Vanessa Ramos 47;13/09/1964;62;(11) 99042-2680;HAS;Pendente;Consulta médica semestral pendente;01/08/2026
+PAC_0082;Fernanda Lima 16;10/03/1992;34;(11) 92869-2070;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;05/05/2026
+PAC_0083;Bruno Santos 29;24/01/1999;27;(11) 95978-2395;DM;Em dia;Nenhuma pendencia ativa;25/05/2026
+PAC_0084;Yasmin Rocha 89;15/02/1994;32;(11) 97232-8381;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;10/07/2026
+PAC_0085;Juliana Rodrigues 82;16/10/1969;57;(11) 92625-4404;Saúde Mental;Em dia;Nenhuma pendencia ativa;17/09/2026
+PAC_0086;Helena Carvalho 32;07/10/1973;53;(11) 93564-1043;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;14/08/2026
+PAC_0087;Bruno Santos 39;14/11/1989;36;(11) 95632-8438;HAS;Pendente;Consulta médica semestral pendente;20/05/2026
+PAC_0088;William Cunha 94;09/08/1957;69;(11) 97965-2880;Gestantes;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0089;Igor Ferreira 28;07/10/2004;22;(11) 93718-6039;Gestantes;Pendente;Avaliação nutricional pendente;07/07/2026
+PAC_0090;Daniela Souza 69;14/06/1964;62;(11) 97594-5460;Gestantes;Em dia;Nenhuma pendencia ativa;27/05/2026
+PAC_0091;Bruno Santos 65;05/06/1961;65;(11) 95102-1423;HAS;Em dia;Nenhuma pendencia ativa;02/06/2026
+PAC_0092;William Cunha 12;09/12/1959;66;(11) 95415-1659;DM;Em dia;Nenhuma pendencia ativa;17/08/2026
+PAC_0093;Fernanda Lima 84;22/12/1980;45;(11) 99056-2494;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;09/05/2026
+PAC_0094;Daniela Souza 30;15/04/1987;39;(11) 99117-5722;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;09/06/2026
+PAC_0095;Bruno Santos 68;30/05/2003;23;(11) 95135-6296;HAS;Abandono;Sem contato ha mais de 180 dias na linha;18/06/2026
+PAC_0096;Ana Silva 94;15/02/1953;73;(11) 98569-7770;HAS;Em dia;Nenhuma pendencia ativa;17/04/2026
+PAC_0097;Sabrina Castro 90;17/10/1980;46;(11) 94335-5375;Gestantes;Em dia;Nenhuma pendencia ativa;02/05/2026
+PAC_0098;Sabrina Castro 25;19/12/2006;19;(11) 94920-3594;DLP;Pendente;Avaliação nutricional pendente;31/08/2026
+PAC_0099;Daniela Souza 69;21/09/1948;78;(11) 93522-9165;Saúde Mental;Em dia;Nenhuma pendencia ativa;13/07/2026
+PAC_0100;Sabrina Castro 70;21/03/1993;33;(11) 93369-7284;DM;Abandono;Sem contato ha mais de 180 dias na linha;23/09/2026
+PAC_0101;Carlos Oliveira 45;20/04/1959;67;(11) 96568-9318;DLP;Abandono;Sem contato ha mais de 180 dias na linha;12/08/2026
+PAC_0102;William Cunha 84;11/03/1966;60;(11) 93434-8316;Gestantes;Em dia;Nenhuma pendencia ativa;15/04/2026
+PAC_0103;Vanessa Ramos 58;02/06/1979;47;(11) 94090-4912;Gestantes;Em dia;Nenhuma pendencia ativa;14/07/2026
+PAC_0104;Bruno Santos 50;20/03/1961;65;(11) 97246-7325;Saúde Mental;Pendente;Avaliação nutricional pendente;23/06/2026
+PAC_0105;Bruno Santos 26;16/01/1976;50;(11) 96439-2644;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;24/10/2026
+PAC_0106;Eduardo Pereira 62;19/12/1952;73;(11) 93529-2225;Sobrepeso e Obesidade;Pendente;Consulta médica semestral pendente;03/05/2026
+PAC_0107;Nicolas Martins 93;23/05/2003;23;(11) 99742-7226;DLP;Pendente;Consulta médica semestral pendente;18/10/2026
+PAC_0108;Yasmin Rocha 18;21/12/1992;33;(11) 95708-4727;Saúde Mental;Em dia;Nenhuma pendencia ativa;16/04/2026
+PAC_0109;Daniela Souza 66;18/11/1997;28;(11) 95906-1474;HAS;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0110;Mariana Ribeiro 57;30/08/1981;45;(11) 95000-9702;Sobrepeso e Obesidade;Pendente;Exames laboratoriais atrasados;07/10/2026
+PAC_0111;Yasmin Rocha 58;01/12/1968;57;(11) 94945-9153;Gestantes;Em dia;Nenhuma pendencia ativa;23/08/2026
+PAC_0112;Rafael Barbosa 42;12/11/1966;60;(11) 98622-5712;Saúde Mental;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0113;Mariana Ribeiro 85;18/12/1988;37;(11) 97951-5097;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;21/07/2026
+PAC_0114;Sabrina Castro 23;28/04/1993;33;(11) 96881-5847;Saúde Mental;Em dia;Nenhuma pendencia ativa;12/05/2026
+PAC_0115;Nicolas Martins 45;21/01/2008;18;(11) 91803-9138;DLP;Pendente;Exames laboratoriais atrasados;29/07/2026
+PAC_0116;Helena Carvalho 91;27/12/1995;30;(11) 95106-3240;Saúde Mental;Em dia;Nenhuma pendencia ativa;17/10/2026
+PAC_0117;Juliana Rodrigues 66;14/01/2006;20;(11) 96977-3153;HAS;Abandono;Sem contato ha mais de 180 dias na linha;13/07/2026
+PAC_0118;Fernanda Lima 35;05/02/2000;26;(11) 96994-9697;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;23/08/2026
+PAC_0119;Sabrina Castro 47;28/05/1961;65;(11) 92886-8673;HAS;Em dia;Nenhuma pendencia ativa;07/05/2026
+PAC_0120;Nicolas Martins 81;26/09/1985;41;(11) 97464-1228;DLP;Em dia;Nenhuma pendencia ativa;08/05/2026
+PAC_0121;Igor Ferreira 84;21/12/1983;42;(11) 97086-2775;Saúde Mental;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0122;Vanessa Ramos 51;12/01/1950;76;(11) 94626-2035;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;11/08/2026
+PAC_0123;Patricia Gomes 24;15/10/2000;26;(11) 91609-5986;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;12/06/2026
+PAC_0124;Eduardo Pereira 59;08/05/1979;47;(11) 99850-7866;Gestantes;Pendente;Exames laboratoriais atrasados;13/05/2026
+PAC_0125;Daniela Souza 72;21/04/1969;57;(11) 95583-1536;Saúde Mental;Em dia;Nenhuma pendencia ativa;28/08/2026
+PAC_0126;Mariana Ribeiro 22;05/12/1945;80;(11) 97018-9920;Saúde Mental;Em dia;Nenhuma pendencia ativa;09/09/2026
+PAC_0127;Daniela Souza 68;03/12/2002;23;(11) 94475-1349;HAS;Pendente;Exames laboratoriais atrasados;05/06/2026
+PAC_0128;Gabriel Costa 18;09/02/1955;71;(11) 94394-4538;DM;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0129;Yasmin Rocha 10;28/08/1991;35;(11) 93129-9850;DLP;Pendente;Exames laboratoriais atrasados;21/10/2026
+PAC_0130;Eduardo Pereira 11;13/07/1986;40;(11) 96304-1258;DM;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0131;Patricia Gomes 77;06/10/2001;25;(11) 98802-8344;DLP;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0132;Thiago Moura 38;11/01/1948;78;(11) 91710-9543;DLP;Em dia;Nenhuma pendencia ativa;12/10/2026
+PAC_0133;Sabrina Castro 61;26/11/1980;45;(11) 92768-9032;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0134;Carlos Oliveira 51;01/09/1970;56;(11) 92076-3067;DLP;Pendente;Avaliação nutricional pendente;05/08/2026
+PAC_0135;Nicolas Martins 86;17/06/1975;51;(11) 98433-9282;Gestantes;Em dia;Nenhuma pendencia ativa;28/09/2026
+PAC_0136;Vanessa Ramos 37;26/03/1981;45;(11) 94743-7779;DLP;Abandono;Sem contato ha mais de 180 dias na linha;24/04/2026
+PAC_0137;Daniela Souza 50;05/06/1981;45;(11) 95176-7132;DM;Pendente;Consulta médica semestral pendente;Sem registro
+PAC_0138;Carlos Oliveira 21;24/09/1981;45;(11) 97105-3131;Gestantes;Em dia;Nenhuma pendencia ativa;06/06/2026
+PAC_0139;Lucas Almeida 95;11/04/2001;25;(11) 96793-7929;Saúde Mental;Em dia;Nenhuma pendencia ativa;09/08/2026
+PAC_0140;Mariana Ribeiro 23;29/02/1972;54;(11) 94485-3535;Saúde Mental;Em dia;Nenhuma pendencia ativa;30/07/2026
+PAC_0141;Vanessa Ramos 57;18/06/2001;25;(11) 94705-8030;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;23/05/2026
+PAC_0142;Vanessa Ramos 13;14/12/1969;56;(11) 95381-1474;DM;Em dia;Nenhuma pendencia ativa;02/08/2026
+PAC_0143;Mariana Ribeiro 10;27/08/1997;29;(11) 97566-2140;DM;Pendente;Exames laboratoriais atrasados;Sem registro
+PAC_0144;Thiago Moura 37;11/04/1984;42;(11) 98432-6585;DM;Em dia;Nenhuma pendencia ativa;04/06/2026
+PAC_0145;Yasmin Rocha 20;24/10/1952;74;(11) 93549-3579;Gestantes;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0146;Rafael Barbosa 94;09/03/1981;45;(11) 98242-7785;DLP;Em dia;Nenhuma pendencia ativa;31/07/2026
+PAC_0147;Patricia Gomes 24;28/11/1989;36;(11) 98972-9633;Saúde Mental;Em dia;Nenhuma pendencia ativa;27/05/2026
+PAC_0148;Bruno Santos 10;08/06/1995;31;(11) 94460-3248;DLP;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0149;Sabrina Castro 65;03/09/1997;29;(11) 97229-9725;Saúde Mental;Em dia;Nenhuma pendencia ativa;09/05/2026
+PAC_0150;Mariana Ribeiro 19;22/10/1983;43;(11) 98147-1307;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;02/06/2026
+PAC_0151;Patricia Gomes 83;14/11/1982;43;(11) 97843-5743;HAS;Em dia;Nenhuma pendencia ativa;14/09/2026
+PAC_0152;Yasmin Rocha 68;01/12/1954;71;(11) 96928-2443;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;30/05/2026
+PAC_0153;Nicolas Martins 77;19/04/2003;23;(11) 96083-6562;DM;Em dia;Nenhuma pendencia ativa;19/06/2026
+PAC_0154;Daniela Souza 77;06/08/1976;50;(11) 96724-6752;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;20/09/2026
+PAC_0155;Helena Carvalho 23;30/06/1999;27;(11) 94232-3842;Gestantes;Em dia;Nenhuma pendencia ativa;08/10/2026
+PAC_0156;Fernanda Lima 90;21/03/1977;49;(11) 98354-6295;Saúde Mental;Em dia;Nenhuma pendencia ativa;29/06/2026
+PAC_0157;Rafael Barbosa 90;23/06/1989;37;(11) 91920-6766;Gestantes;Em dia;Nenhuma pendencia ativa;18/10/2026
+PAC_0158;Bruno Santos 57;26/06/1955;71;(11) 92257-2479;Gestantes;Pendente;Consulta médica semestral pendente;08/06/2026
+PAC_0159;Bruno Santos 67;01/02/1950;76;(11) 94084-6267;Gestantes;Em dia;Nenhuma pendencia ativa;12/10/2026
+PAC_0160;Rafael Barbosa 23;27/05/1957;69;(11) 92381-9266;Saúde Mental;Em dia;Nenhuma pendencia ativa;07/07/2026
+PAC_0161;Rafael Barbosa 77;06/01/1975;51;(11) 93600-6962;DLP;Abandono;Sem contato ha mais de 180 dias na linha;02/08/2026
+PAC_0162;Yasmin Rocha 16;30/12/1957;68;(11) 96482-2079;DLP;Em dia;Nenhuma pendencia ativa;16/08/2026
+PAC_0163;Igor Ferreira 94;17/01/1947;79;(11) 93463-6461;HAS;Pendente;Exames laboratoriais atrasados;09/08/2026
+PAC_0164;Nicolas Martins 26;18/11/1969;56;(11) 92388-6072;Gestantes;Em dia;Nenhuma pendencia ativa;25/09/2026
+PAC_0165;Thiago Moura 21;08/12/1966;59;(11) 97937-9331;DLP;Em dia;Nenhuma pendencia ativa;03/09/2026
+PAC_0166;Lucas Almeida 72;16/07/1996;30;(11) 93253-3538;HAS;Em dia;Nenhuma pendencia ativa;20/06/2026
+PAC_0167;Vanessa Ramos 77;03/12/2005;20;(11) 96517-3147;Gestantes;Em dia;Nenhuma pendencia ativa;03/05/2026
+PAC_0168;Yasmin Rocha 31;07/04/1962;64;(11) 91715-7731;DLP;Pendente;Exames laboratoriais atrasados;24/05/2026
+PAC_0169;Juliana Rodrigues 67;09/02/1994;32;(11) 94918-6070;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;07/05/2026
+PAC_0170;William Cunha 66;22/06/1979;47;(11) 97256-9239;Gestantes;Em dia;Nenhuma pendencia ativa;06/09/2026
+PAC_0171;Yasmin Rocha 27;14/07/1953;73;(11) 91854-8873;DLP;Pendente;Exames laboratoriais atrasados;17/06/2026
+PAC_0172;Daniela Souza 46;17/08/2003;23;(11) 95469-8361;Gestantes;Em dia;Nenhuma pendencia ativa;01/09/2026
+PAC_0173;Rafael Barbosa 54;07/11/1949;77;(11) 97797-1872;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;07/10/2026
+PAC_0174;Mariana Ribeiro 38;27/05/2007;19;(11) 92623-6493;DM;Em dia;Nenhuma pendencia ativa;29/06/2026
+PAC_0175;Eduardo Pereira 70;02/01/1980;46;(11) 91086-2298;HAS;Em dia;Nenhuma pendencia ativa;09/06/2026
+PAC_0176;Yasmin Rocha 77;17/09/1981;45;(11) 95720-4893;DLP;Em dia;Nenhuma pendencia ativa;17/05/2026
+PAC_0177;Yasmin Rocha 68;11/09/2004;22;(11) 99189-9782;HAS;Pendente;Avaliação nutricional pendente;21/09/2026
+PAC_0178;Juliana Rodrigues 64;27/12/2007;18;(11) 96780-4941;Gestantes;Em dia;Nenhuma pendencia ativa;06/10/2026
+PAC_0179;Thiago Moura 56;11/02/2004;22;(11) 99914-9312;Gestantes;Pendente;Consulta médica semestral pendente;16/10/2026
+PAC_0180;Nicolas Martins 57;01/11/1992;34;(11) 96850-2106;DLP;Em dia;Nenhuma pendencia ativa;01/10/2026
+PAC_0181;William Cunha 52;16/10/2000;26;(11) 96772-9945;DLP;Abandono;Sem contato ha mais de 180 dias na linha;05/05/2026
+PAC_0182;Rafael Barbosa 99;25/12/1977;48;(11) 93986-3209;HAS;Pendente;Consulta médica semestral pendente;Sem registro
+PAC_0183;Gabriel Costa 15;08/08/1958;68;(11) 91686-6170;DLP;Em dia;Nenhuma pendencia ativa;10/06/2026
+PAC_0184;Sabrina Castro 42;10/12/2005;20;(11) 94131-5687;DLP;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0185;Lucas Almeida 44;03/05/2001;25;(11) 98159-7553;Saúde Mental;Em dia;Nenhuma pendencia ativa;02/08/2026
+PAC_0186;Fernanda Lima 73;07/03/1964;62;(11) 97018-9507;DLP;Abandono;Sem contato ha mais de 180 dias na linha;07/10/2026
+PAC_0187;Patricia Gomes 87;18/08/1956;70;(11) 99937-5813;DLP;Em dia;Nenhuma pendencia ativa;13/08/2026
+PAC_0188;Juliana Rodrigues 67;11/04/1970;56;(11) 93730-8272;DLP;Em dia;Nenhuma pendencia ativa;29/07/2026
+PAC_0189;Yasmin Rocha 65;18/12/1990;35;(11) 91939-2229;Saúde Mental;Pendente;Consulta médica semestral pendente;19/04/2026
+PAC_0190;Fernanda Lima 13;01/01/1999;27;(11) 98179-1570;DM;Em dia;Nenhuma pendencia ativa;26/07/2026
+PAC_0191;Mariana Ribeiro 59;04/02/1948;78;(11) 91530-3513;Saúde Mental;Em dia;Nenhuma pendencia ativa;06/07/2026
+PAC_0192;Carlos Oliveira 83;10/02/2000;26;(11) 97012-7521;DLP;Pendente;Exames laboratoriais atrasados;21/10/2026
+PAC_0193;Fernanda Lima 73;30/04/1975;51;(11) 92929-5288;DLP;Pendente;Exames laboratoriais atrasados;15/08/2026
+PAC_0194;Sabrina Castro 35;30/08/2001;25;(11) 92213-8406;DM;Abandono;Sem contato ha mais de 180 dias na linha;05/10/2026
+PAC_0195;Lucas Almeida 95;13/11/1985;40;(11) 92063-9882;DLP;Abandono;Sem contato ha mais de 180 dias na linha;28/04/2026
+PAC_0196;Fernanda Lima 56;22/07/1976;50;(11) 92988-4292;DM;Em dia;Nenhuma pendencia ativa;27/07/2026
+PAC_0197;Vanessa Ramos 83;17/03/1985;41;(11) 93126-2412;HAS;Em dia;Nenhuma pendencia ativa;26/04/2026
+PAC_0198;Sabrina Castro 77;17/04/1982;44;(11) 92208-3053;DLP;Pendente;Consulta médica semestral pendente;17/06/2026
+PAC_0199;Mariana Ribeiro 26;11/02/1952;74;(11) 93981-3114;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;26/09/2026
+PAC_0200;Thiago Moura 29;18/08/1989;37;(11) 93653-6286;Saúde Mental;Em dia;Nenhuma pendencia ativa;17/06/2026
+PAC_0201;Juliana Rodrigues 20;01/08/1992;34;(11) 95496-3050;Saúde Mental;Em dia;Nenhuma pendencia ativa;21/06/2026
+PAC_0202;Fernanda Lima 85;28/01/1948;78;(11) 93526-3804;Saúde Mental;Pendente;Avaliação nutricional pendente;05/06/2026
+PAC_0203;Bruno Santos 13;15/10/2003;23;(11) 95336-4453;Gestantes;Em dia;Nenhuma pendencia ativa;22/06/2026
+PAC_0204;Vanessa Ramos 47;15/06/1967;59;(11) 98912-5012;Saúde Mental;Em dia;Nenhuma pendencia ativa;04/05/2026
+PAC_0205;Bruno Santos 30;14/04/1980;46;(11) 98933-8609;DM;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0206;Lucas Almeida 54;01/05/1946;80;(11) 93142-7070;Gestantes;Pendente;Consulta médica semestral pendente;26/09/2026
+PAC_0207;Igor Ferreira 67;29/08/1993;33;(11) 92586-1829;DLP;Abandono;Sem contato ha mais de 180 dias na linha;12/07/2026
+PAC_0208;Helena Carvalho 30;04/06/1956;70;(11) 96123-4110;DM;Em dia;Nenhuma pendencia ativa;22/06/2026
+PAC_0209;Juliana Rodrigues 73;21/09/2007;19;(11) 97442-9281;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;29/07/2026
+PAC_0210;Bruno Santos 16;02/03/1990;36;(11) 98710-5681;Gestantes;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0211;Eduardo Pereira 43;14/05/1962;64;(11) 97606-6995;HAS;Em dia;Nenhuma pendencia ativa;08/09/2026
+PAC_0212;Mariana Ribeiro 80;04/10/1990;36;(11) 97329-9261;Sobrepeso e Obesidade;Pendente;Consulta médica semestral pendente;21/05/2026
+PAC_0213;Yasmin Rocha 25;19/09/2000;26;(11) 97453-7114;DLP;Pendente;Consulta médica semestral pendente;07/09/2026
+PAC_0214;Yasmin Rocha 75;01/03/1983;43;(11) 91659-1742;HAS;Em dia;Nenhuma pendencia ativa;28/06/2026
+PAC_0215;Thiago Moura 68;02/01/1999;27;(11) 99446-3290;DLP;Abandono;Sem contato ha mais de 180 dias na linha;19/07/2026
+PAC_0216;Yasmin Rocha 48;27/05/1971;55;(11) 99311-9351;Gestantes;Em dia;Nenhuma pendencia ativa;28/06/2026
+PAC_0217;Ana Silva 57;02/12/1986;39;(11) 92795-7824;Gestantes;Em dia;Nenhuma pendencia ativa;04/05/2026
+PAC_0218;Ana Silva 86;01/07/1978;48;(11) 94728-1841;Gestantes;Em dia;Nenhuma pendencia ativa;26/04/2026
+PAC_0219;Yasmin Rocha 58;25/11/1998;27;(11) 94968-1517;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0220;Ana Silva 66;10/04/1988;38;(11) 93481-7765;Saúde Mental;Em dia;Nenhuma pendencia ativa;24/05/2026
+PAC_0221;Sabrina Castro 17;08/09/1963;63;(11) 99498-4397;Gestantes;Em dia;Nenhuma pendencia ativa;15/06/2026
+PAC_0222;Nicolas Martins 50;25/08/1947;79;(11) 98531-9734;DLP;Em dia;Nenhuma pendencia ativa;26/04/2026
+PAC_0223;Igor Ferreira 88;07/08/1978;48;(11) 95038-5571;Gestantes;Em dia;Nenhuma pendencia ativa;12/08/2026
+PAC_0224;Juliana Rodrigues 36;22/11/1963;62;(11) 99011-6194;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;26/04/2026
+PAC_0225;Igor Ferreira 46;18/01/2001;25;(11) 99899-7220;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;20/09/2026
+PAC_0226;Juliana Rodrigues 15;01/10/1990;36;(11) 96674-8247;Saúde Mental;Em dia;Nenhuma pendencia ativa;06/09/2026
+PAC_0227;Vanessa Ramos 44;06/02/1949;77;(11) 95450-3249;HAS;Pendente;Avaliação nutricional pendente;15/10/2026
+PAC_0228;Thiago Moura 38;19/07/1968;58;(11) 91860-2641;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;06/05/2026
+PAC_0229;Eduardo Pereira 10;13/02/1947;79;(11) 93587-7666;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;27/06/2026
+PAC_0230;Gabriel Costa 46;17/06/1988;38;(11) 91969-2465;Saúde Mental;Pendente;Avaliação nutricional pendente;18/10/2026
+PAC_0231;Fernanda Lima 63;21/08/1952;74;(11) 91595-7504;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;14/08/2026
+PAC_0232;Bruno Santos 11;24/01/1989;37;(11) 92758-6489;DLP;Em dia;Nenhuma pendencia ativa;15/06/2026
+PAC_0233;Sabrina Castro 27;06/03/1954;72;(11) 98668-5470;DM;Abandono;Sem contato ha mais de 180 dias na linha;23/04/2026
+PAC_0234;Rafael Barbosa 92;06/08/1992;34;(11) 91230-6523;DLP;Pendente;Exames laboratoriais atrasados;17/05/2026
+PAC_0235;Nicolas Martins 64;30/05/1976;50;(11) 92421-7567;Saúde Mental;Em dia;Nenhuma pendencia ativa;27/06/2026
+PAC_0236;Lucas Almeida 41;25/06/2008;18;(11) 97284-4858;Sobrepeso e Obesidade;Pendente;Consulta médica semestral pendente;25/04/2026
+PAC_0237;William Cunha 11;11/12/1991;34;(11) 96890-4871;HAS;Pendente;Consulta médica semestral pendente;16/07/2026
+PAC_0238;Thiago Moura 49;17/09/1964;62;(11) 95833-7021;Gestantes;Em dia;Nenhuma pendencia ativa;27/06/2026
+PAC_0239;Eduardo Pereira 68;11/01/1961;65;(11) 97121-7813;Saúde Mental;Em dia;Nenhuma pendencia ativa;12/06/2026
+PAC_0240;Gabriel Costa 41;15/01/1965;61;(11) 92341-9609;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;05/06/2026
+PAC_0241;Daniela Souza 17;12/02/1955;71;(11) 99281-4312;Gestantes;Em dia;Nenhuma pendencia ativa;16/06/2026
+PAC_0242;Rafael Barbosa 24;03/08/1965;61;(11) 99008-2489;Gestantes;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0243;Eduardo Pereira 75;24/03/1982;44;(11) 91945-8575;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;18/07/2026
+PAC_0244;Igor Ferreira 10;29/07/1961;65;(11) 92196-1742;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0245;Bruno Santos 18;24/03/1949;77;(11) 91519-5703;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0246;Patricia Gomes 57;09/05/1951;75;(11) 98348-7184;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;11/06/2026
+PAC_0247;Eduardo Pereira 93;25/05/1953;73;(11) 92943-3924;Gestantes;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0248;Helena Carvalho 10;06/11/1960;66;(11) 95888-8585;Saúde Mental;Pendente;Consulta médica semestral pendente;30/08/2026
+PAC_0249;Helena Carvalho 68;24/08/1986;40;(11) 95516-4088;Saúde Mental;Pendente;Exames laboratoriais atrasados;12/07/2026
+PAC_0250;Yasmin Rocha 12;27/07/1993;33;(11) 92102-2653;Gestantes;Em dia;Nenhuma pendencia ativa;30/04/2026
+PAC_0251;Bruno Santos 41;26/10/1961;65;(11) 97590-8191;DM;Em dia;Nenhuma pendencia ativa;13/10/2026
+PAC_0252;Eduardo Pereira 74;14/07/1990;36;(11) 96224-6253;DM;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0253;Thiago Moura 38;12/06/1982;44;(11) 95508-1998;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;13/09/2026
+PAC_0254;Patricia Gomes 81;20/10/1977;49;(11) 96642-7244;Gestantes;Em dia;Nenhuma pendencia ativa;19/09/2026
+PAC_0255;Juliana Rodrigues 58;06/02/1997;29;(11) 98758-4948;DM;Em dia;Nenhuma pendencia ativa;01/07/2026
+PAC_0256;Bruno Santos 81;13/04/1982;44;(11) 99683-3196;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;15/05/2026
+PAC_0257;Carlos Oliveira 67;14/05/1954;72;(11) 92514-9775;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0258;Nicolas Martins 96;11/01/1970;56;(11) 91647-2192;DM;Abandono;Sem contato ha mais de 180 dias na linha;09/05/2026
+PAC_0259;Vanessa Ramos 37;30/07/1978;48;(11) 96455-5967;HAS;Em dia;Nenhuma pendencia ativa;21/04/2026
+PAC_0260;Daniela Souza 71;19/07/1950;76;(11) 94350-7498;DM;Pendente;Consulta médica semestral pendente;13/06/2026
+PAC_0261;Mariana Ribeiro 49;09/05/1992;34;(11) 99401-9147;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;29/06/2026
+PAC_0262;Lucas Almeida 36;04/06/1985;41;(11) 97781-1749;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;23/10/2026
+PAC_0263;Igor Ferreira 80;25/01/1949;77;(11) 97841-5836;DM;Em dia;Nenhuma pendencia ativa;04/06/2026
+PAC_0264;Helena Carvalho 73;14/12/1972;53;(11) 96530-5216;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;24/06/2026
+PAC_0265;Rafael Barbosa 31;21/05/1962;64;(11) 93773-3293;Saúde Mental;Em dia;Nenhuma pendencia ativa;11/06/2026
+PAC_0266;Bruno Santos 77;29/09/2006;20;(11) 91794-1104;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;10/10/2026
+PAC_0267;Eduardo Pereira 11;24/02/1995;31;(11) 98471-7114;HAS;Pendente;Avaliação nutricional pendente;26/06/2026
+PAC_0268;Sabrina Castro 12;07/02/2008;18;(11) 97739-1194;HAS;Em dia;Nenhuma pendencia ativa;15/08/2026
+PAC_0269;Ana Silva 74;27/11/1955;70;(11) 98054-3937;HAS;Abandono;Sem contato ha mais de 180 dias na linha;27/08/2026
+PAC_0270;Gabriel Costa 89;08/07/1975;51;(11) 96807-5379;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;02/07/2026
+PAC_0271;William Cunha 41;24/07/1964;62;(11) 95914-2320;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;19/10/2026
+PAC_0272;Carlos Oliveira 61;02/05/1984;42;(11) 98798-1919;Saúde Mental;Em dia;Nenhuma pendencia ativa;22/06/2026
+PAC_0273;Patricia Gomes 92;02/06/1958;68;(11) 92562-9653;HAS;Em dia;Nenhuma pendencia ativa;03/05/2026
+PAC_0274;William Cunha 70;18/10/1991;35;(11) 92218-5593;Gestantes;Pendente;Exames laboratoriais atrasados;08/08/2026
+PAC_0275;Ana Silva 36;03/09/1971;55;(11) 97525-2260;DLP;Em dia;Nenhuma pendencia ativa;20/07/2026
+PAC_0276;Vanessa Ramos 52;01/09/1984;42;(11) 92284-9204;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0277;Patricia Gomes 39;12/10/1955;71;(11) 96580-7499;DLP;Em dia;Nenhuma pendencia ativa;04/07/2026
+PAC_0278;Sabrina Castro 39;01/02/1986;40;(11) 97150-8075;DM;Pendente;Avaliação nutricional pendente;22/05/2026
+PAC_0279;Juliana Rodrigues 41;11/10/1963;63;(11) 92344-5390;DM;Em dia;Nenhuma pendencia ativa;18/09/2026
+PAC_0280;Nicolas Martins 50;18/09/1985;41;(11) 92499-1085;DLP;Em dia;Nenhuma pendencia ativa;01/10/2026
+PAC_0281;Eduardo Pereira 21;02/04/1997;29;(11) 98353-9395;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0282;Vanessa Ramos 21;13/01/1970;56;(11) 96315-7311;HAS;Em dia;Nenhuma pendencia ativa;06/10/2026
+PAC_0283;Vanessa Ramos 41;22/02/1972;54;(11) 93778-7237;DM;Em dia;Nenhuma pendencia ativa;23/06/2026
+PAC_0284;Eduardo Pereira 18;31/03/1998;28;(11) 95521-7899;DLP;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0285;Igor Ferreira 41;01/01/1962;64;(11) 99123-4203;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;18/07/2026
+PAC_0286;Lucas Almeida 89;27/05/1984;42;(11) 98212-6484;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;28/05/2026
+PAC_0287;Eduardo Pereira 48;07/01/1988;38;(11) 94290-8848;DLP;Em dia;Nenhuma pendencia ativa;07/08/2026
+PAC_0288;Juliana Rodrigues 98;09/03/1968;58;(11) 94971-6339;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;26/07/2026
+PAC_0289;Daniela Souza 82;10/01/1996;30;(11) 99939-3947;Saúde Mental;Pendente;Exames laboratoriais atrasados;01/07/2026
+PAC_0290;Gabriel Costa 66;22/06/1957;69;(11) 92133-7703;Saúde Mental;Em dia;Nenhuma pendencia ativa;27/08/2026
+PAC_0291;Igor Ferreira 94;06/04/1999;27;(11) 97176-2211;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;17/07/2026
+PAC_0292;Vanessa Ramos 74;01/12/1948;77;(11) 97853-9907;HAS;Pendente;Consulta médica semestral pendente;12/06/2026
+PAC_0293;Yasmin Rocha 91;08/10/1950;76;(11) 92791-5067;Saúde Mental;Pendente;Exames laboratoriais atrasados;16/10/2026
+PAC_0294;William Cunha 92;20/12/1964;61;(11) 97547-6432;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0295;Helena Carvalho 75;25/02/1961;65;(11) 94621-8303;DLP;Em dia;Nenhuma pendencia ativa;30/05/2026
+PAC_0296;Thiago Moura 29;30/10/1986;40;(11) 98909-2712;DLP;Em dia;Nenhuma pendencia ativa;28/09/2026
+PAC_0297;Eduardo Pereira 54;19/05/1989;37;(11) 98460-4389;Gestantes;Em dia;Nenhuma pendencia ativa;07/07/2026
+PAC_0298;Rafael Barbosa 50;06/06/2004;22;(11) 91732-2885;HAS;Abandono;Sem contato ha mais de 180 dias na linha;07/05/2026
+PAC_0299;Fernanda Lima 41;17/08/1975;51;(11) 93623-6422;Gestantes;Em dia;Nenhuma pendencia ativa;16/07/2026
+PAC_0300;Fernanda Lima 33;15/12/1967;58;(11) 98080-7481;HAS;Pendente;Exames laboratoriais atrasados;10/07/2026
+PAC_0301;Nicolas Martins 10;31/07/1963;63;(11) 94371-5560;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0302;Daniela Souza 78;05/05/1997;29;(11) 96340-4228;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;24/06/2026
+PAC_0303;Thiago Moura 91;10/01/1988;38;(11) 97367-7431;Gestantes;Em dia;Nenhuma pendencia ativa;02/07/2026
+PAC_0304;Yasmin Rocha 32;10/12/1955;70;(11) 95873-2388;Saúde Mental;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0305;Juliana Rodrigues 24;01/05/1997;29;(11) 93316-9369;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0306;Nicolas Martins 64;04/03/1997;29;(11) 99804-3838;Gestantes;Em dia;Nenhuma pendencia ativa;10/09/2026
+PAC_0307;Lucas Almeida 67;19/10/1969;57;(11) 96882-1157;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;06/06/2026
+PAC_0308;Thiago Moura 93;18/04/1977;49;(11) 99056-7809;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;06/10/2026
+PAC_0309;William Cunha 13;29/07/1958;68;(11) 95785-1535;DLP;Em dia;Nenhuma pendencia ativa;02/07/2026
+PAC_0310;William Cunha 73;26/02/1973;53;(11) 92854-2871;DLP;Pendente;Consulta médica semestral pendente;17/04/2026
+PAC_0311;Bruno Santos 66;26/07/1974;52;(11) 97965-2677;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;12/08/2026
+PAC_0312;Bruno Santos 67;15/05/1992;34;(11) 92425-8193;HAS;Pendente;Exames laboratoriais atrasados;22/04/2026
+PAC_0313;William Cunha 98;13/11/1985;40;(11) 98015-3719;Gestantes;Em dia;Nenhuma pendencia ativa;05/09/2026
+PAC_0314;Bruno Santos 82;12/02/1986;40;(11) 95605-9827;DM;Em dia;Nenhuma pendencia ativa;14/08/2026
+PAC_0315;William Cunha 44;02/03/1948;78;(11) 92560-3221;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;13/05/2026
+PAC_0316;Eduardo Pereira 99;13/09/1953;73;(11) 95090-3396;Saúde Mental;Em dia;Nenhuma pendencia ativa;07/05/2026
+PAC_0317;Nicolas Martins 72;17/01/1999;27;(11) 95402-7786;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;04/10/2026
+PAC_0318;Nicolas Martins 75;28/06/1961;65;(11) 97046-8449;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0319;Carlos Oliveira 68;11/12/1967;58;(11) 96869-2037;Gestantes;Em dia;Nenhuma pendencia ativa;03/09/2026
+PAC_0320;Sabrina Castro 44;18/06/1988;38;(11) 96533-9967;Gestantes;Em dia;Nenhuma pendencia ativa;01/08/2026
+PAC_0321;Bruno Santos 15;22/12/2001;24;(11) 98529-1266;HAS;Abandono;Sem contato ha mais de 180 dias na linha;03/07/2026
+PAC_0322;Ana Silva 64;22/11/1995;30;(11) 93161-5945;DM;Abandono;Sem contato ha mais de 180 dias na linha;04/10/2026
+PAC_0323;Mariana Ribeiro 42;01/05/2003;23;(11) 93711-1848;Sobrepeso e Obesidade;Pendente;Avaliação nutricional pendente;29/08/2026
+PAC_0324;Patricia Gomes 93;12/11/2002;23;(11) 92559-1017;DM;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0325;Helena Carvalho 76;03/04/1965;61;(11) 91152-1132;Saúde Mental;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0326;Patricia Gomes 98;08/03/2000;26;(11) 92160-4751;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;01/10/2026
+PAC_0327;Lucas Almeida 57;19/06/1952;74;(11) 93246-7270;DM;Pendente;Avaliação nutricional pendente;Sem registro
+PAC_0328;Thiago Moura 82;29/12/2007;18;(11) 93688-8210;DLP;Pendente;Avaliação nutricional pendente;14/07/2026
+PAC_0329;Yasmin Rocha 97;24/07/1980;46;(11) 92420-2646;DM;Pendente;Avaliação nutricional pendente;30/07/2026
+PAC_0330;Patricia Gomes 50;08/09/1958;68;(11) 95059-5537;Saúde Mental;Em dia;Nenhuma pendencia ativa;27/05/2026
+PAC_0331;Yasmin Rocha 46;30/11/1958;67;(11) 91439-5942;DM;Em dia;Nenhuma pendencia ativa;19/04/2026
+PAC_0332;Nicolas Martins 47;20/10/1967;59;(11) 94921-9108;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;28/05/2026
+PAC_0333;Carlos Oliveira 77;13/11/1952;74;(11) 96916-6185;DM;Em dia;Nenhuma pendencia ativa;12/07/2026
+PAC_0334;Mariana Ribeiro 79;20/08/1965;61;(11) 98717-2195;HAS;Pendente;Exames laboratoriais atrasados;17/10/2026
+PAC_0335;Bruno Santos 60;20/06/1976;50;(11) 99209-7806;Sobrepeso e Obesidade;Pendente;Exames laboratoriais atrasados;12/06/2026
+PAC_0336;Yasmin Rocha 29;29/09/1991;35;(11) 96077-2294;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;18/09/2026
+PAC_0337;Vanessa Ramos 51;16/01/1983;43;(11) 92083-6081;Saúde Mental;Em dia;Nenhuma pendencia ativa;27/08/2026
+PAC_0338;Bruno Santos 41;30/03/2003;23;(11) 92900-8428;Gestantes;Pendente;Consulta médica semestral pendente;12/05/2026
+PAC_0339;Fernanda Lima 25;09/11/2007;18;(11) 93248-1185;DM;Em dia;Nenhuma pendencia ativa;17/06/2026
+PAC_0340;Igor Ferreira 31;08/09/1985;41;(11) 95403-2934;HAS;Em dia;Nenhuma pendencia ativa;15/06/2026
+PAC_0341;Carlos Oliveira 43;26/01/1963;63;(11) 92262-9128;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0342;William Cunha 31;23/08/1985;41;(11) 95179-2685;Gestantes;Pendente;Exames laboratoriais atrasados;19/06/2026
+PAC_0343;Ana Silva 15;13/11/1954;72;(11) 95006-1753;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;12/09/2026
+PAC_0344;Bruno Santos 80;18/12/1956;69;(11) 97870-4678;DLP;Em dia;Nenhuma pendencia ativa;07/08/2026
+PAC_0345;Igor Ferreira 19;08/05/1972;54;(11) 92956-9225;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;17/06/2026
+PAC_0346;Bruno Santos 61;13/03/2004;22;(11) 95625-6090;DLP;Em dia;Nenhuma pendencia ativa;25/07/2026
+PAC_0347;Gabriel Costa 47;12/06/1972;54;(11) 94974-8600;DLP;Pendente;Consulta médica semestral pendente;07/09/2026
+PAC_0348;Vanessa Ramos 41;05/11/1999;27;(11) 97718-1391;DM;Em dia;Nenhuma pendencia ativa;03/05/2026
+PAC_0349;Ana Silva 52;05/12/2007;18;(11) 97164-6038;HAS;Em dia;Nenhuma pendencia ativa;12/07/2026
+PAC_0350;Sabrina Castro 17;10/09/1946;80;(11) 95584-2524;HAS;Abandono;Sem contato ha mais de 180 dias na linha;16/06/2026
+PAC_0351;Patricia Gomes 99;14/05/1951;75;(11) 98511-2391;Gestantes;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0352;Nicolas Martins 19;29/01/1971;55;(11) 92020-8126;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;22/08/2026
+PAC_0353;Lucas Almeida 60;02/06/1964;62;(11) 96211-8417;DLP;Em dia;Nenhuma pendencia ativa;23/09/2026
+PAC_0354;William Cunha 23;15/09/1999;27;(11) 93693-8365;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0355;Mariana Ribeiro 36;08/06/1980;46;(11) 98591-5341;HAS;Em dia;Nenhuma pendencia ativa;11/08/2026
+PAC_0356;Yasmin Rocha 15;26/05/1995;31;(11) 93430-2494;Saúde Mental;Em dia;Nenhuma pendencia ativa;18/06/2026
+PAC_0357;Bruno Santos 96;30/06/1989;37;(11) 93848-1509;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;09/06/2026
+PAC_0358;Helena Carvalho 22;22/09/1979;47;(11) 93290-2989;HAS;Em dia;Nenhuma pendencia ativa;01/09/2026
+PAC_0359;Eduardo Pereira 35;27/04/1956;70;(11) 97098-2376;Gestantes;Pendente;Exames laboratoriais atrasados;Sem registro
+PAC_0360;Carlos Oliveira 35;25/12/1950;75;(11) 98265-3110;HAS;Abandono;Sem contato ha mais de 180 dias na linha;04/08/2026
+PAC_0361;Daniela Souza 15;29/03/1948;78;(11) 91829-3752;Gestantes;Em dia;Nenhuma pendencia ativa;22/06/2026
+PAC_0362;Ana Silva 58;12/04/1965;61;(11) 93831-6799;DM;Abandono;Sem contato ha mais de 180 dias na linha;05/07/2026
+PAC_0363;Eduardo Pereira 14;02/01/1969;57;(11) 95026-5835;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;12/10/2026
+PAC_0364;Carlos Oliveira 45;02/09/1984;42;(11) 97868-4267;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;19/05/2026
+PAC_0365;Vanessa Ramos 12;12/05/1984;42;(11) 98859-9921;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;06/08/2026
+PAC_0366;Nicolas Martins 44;26/10/1997;29;(11) 96224-4588;HAS;Abandono;Sem contato ha mais de 180 dias na linha;13/10/2026
+PAC_0367;Sabrina Castro 77;16/01/1986;40;(11) 94813-3615;HAS;Em dia;Nenhuma pendencia ativa;13/06/2026
+PAC_0368;Bruno Santos 38;30/04/1972;54;(11) 96813-3846;DM;Em dia;Nenhuma pendencia ativa;22/04/2026
+PAC_0369;Mariana Ribeiro 85;11/11/2006;19;(11) 96761-3328;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;23/06/2026
+PAC_0370;Vanessa Ramos 49;02/03/1997;29;(11) 91621-2478;HAS;Em dia;Nenhuma pendencia ativa;15/06/2026
+PAC_0371;Sabrina Castro 10;01/01/1987;39;(11) 94300-3137;DLP;Pendente;Consulta médica semestral pendente;Sem registro
+PAC_0372;Eduardo Pereira 85;06/09/1963;63;(11) 92817-9622;DLP;Abandono;Sem contato ha mais de 180 dias na linha;11/05/2026
+PAC_0373;Nicolas Martins 85;19/05/2002;24;(11) 95944-6285;DM;Abandono;Sem contato ha mais de 180 dias na linha;08/07/2026
+PAC_0374;Sabrina Castro 93;13/08/1988;38;(11) 96846-4657;Saúde Mental;Pendente;Exames laboratoriais atrasados;23/04/2026
+PAC_0375;Juliana Rodrigues 26;08/11/1997;29;(11) 97415-1530;DM;Pendente;Avaliação nutricional pendente;05/06/2026
+PAC_0376;Daniela Souza 73;23/05/1999;27;(11) 92274-4899;DLP;Abandono;Sem contato ha mais de 180 dias na linha;05/10/2026
+PAC_0377;Lucas Almeida 67;23/06/2008;18;(11) 94435-5088;Saúde Mental;Em dia;Nenhuma pendencia ativa;30/09/2026
+PAC_0378;Ana Silva 16;01/04/1984;42;(11) 97875-3725;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;10/06/2026
+PAC_0379;Nicolas Martins 22;19/03/1955;71;(11) 94695-3664;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;13/08/2026
+PAC_0380;Ana Silva 50;17/09/1992;34;(11) 92215-6600;DM;Abandono;Sem contato ha mais de 180 dias na linha;08/10/2026
+PAC_0381;Vanessa Ramos 21;11/01/1987;39;(11) 98909-1507;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;08/07/2026
+PAC_0382;Fernanda Lima 16;22/05/2002;24;(11) 94367-4112;Sobrepeso e Obesidade;Pendente;Avaliação nutricional pendente;11/06/2026
+PAC_0383;Igor Ferreira 94;11/06/1990;36;(11) 94891-2571;HAS;Em dia;Nenhuma pendencia ativa;24/06/2026
+PAC_0384;Eduardo Pereira 16;10/11/1985;41;(11) 98005-2435;DLP;Abandono;Sem contato ha mais de 180 dias na linha;27/06/2026
+PAC_0385;Gabriel Costa 22;24/07/2007;19;(11) 93798-5781;HAS;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0386;Nicolas Martins 70;10/12/1976;49;(11) 95341-2493;Saúde Mental;Em dia;Nenhuma pendencia ativa;22/07/2026
+PAC_0387;Mariana Ribeiro 33;21/10/1980;46;(11) 95313-8204;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;05/06/2026
+PAC_0388;Bruno Santos 29;27/11/1959;66;(11) 92584-2404;Saúde Mental;Em dia;Nenhuma pendencia ativa;17/04/2026
+PAC_0389;William Cunha 39;14/10/1973;53;(11) 97342-9561;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;28/06/2026
+PAC_0390;William Cunha 40;13/06/1978;48;(11) 92293-7468;Saúde Mental;Em dia;Nenhuma pendencia ativa;17/06/2026
+PAC_0391;William Cunha 96;08/01/1946;80;(11) 93415-2970;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;03/09/2026
+PAC_0392;Gabriel Costa 26;04/04/2006;20;(11) 92283-8133;DM;Abandono;Sem contato ha mais de 180 dias na linha;28/05/2026
+PAC_0393;Igor Ferreira 50;17/10/1950;76;(11) 92425-7358;Gestantes;Em dia;Nenhuma pendencia ativa;18/08/2026
+PAC_0394;Thiago Moura 68;14/11/1950;76;(11) 99561-7874;HAS;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0395;William Cunha 84;27/09/1960;66;(11) 92730-2654;DLP;Abandono;Sem contato ha mais de 180 dias na linha;14/07/2026
+PAC_0396;Igor Ferreira 59;13/03/1967;59;(11) 98750-1613;DM;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0397;Yasmin Rocha 97;25/04/1964;62;(11) 91635-7484;DLP;Pendente;Exames laboratoriais atrasados;20/08/2026
+PAC_0398;Mariana Ribeiro 12;09/06/1987;39;(11) 96094-5593;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;30/08/2026
+PAC_0399;Eduardo Pereira 48;09/04/1946;80;(11) 96257-5414;Saúde Mental;Em dia;Nenhuma pendencia ativa;09/09/2026
+PAC_0400;Rafael Barbosa 37;26/04/1950;76;(11) 98937-9462;DLP;Abandono;Sem contato ha mais de 180 dias na linha;17/09/2026
+PAC_0401;Carlos Oliveira 49;03/03/1963;63;(11) 97609-3222;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0402;Gabriel Costa 35;21/10/1955;71;(11) 95087-1541;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;07/09/2026
+PAC_0403;Igor Ferreira 57;26/03/1956;70;(11) 99275-7503;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;27/08/2026
+PAC_0404;Mariana Ribeiro 72;01/04/1970;56;(11) 93909-8775;Gestantes;Pendente;Consulta médica semestral pendente;22/08/2026
+PAC_0405;Carlos Oliveira 46;23/04/2007;19;(11) 91813-3669;Gestantes;Pendente;Exames laboratoriais atrasados;15/05/2026
+PAC_0406;Helena Carvalho 96;25/06/1995;31;(11) 97709-9409;HAS;Abandono;Sem contato ha mais de 180 dias na linha;06/05/2026
+PAC_0407;Ana Silva 70;14/09/1950;76;(11) 93837-1138;DM;Em dia;Nenhuma pendencia ativa;10/08/2026
+PAC_0408;Igor Ferreira 64;12/05/1951;75;(11) 96713-8520;DLP;Em dia;Nenhuma pendencia ativa;16/06/2026
+PAC_0409;Yasmin Rocha 60;24/09/1971;55;(11) 91120-9380;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;06/06/2026
+PAC_0410;Yasmin Rocha 87;11/06/1990;36;(11) 92771-8892;HAS;Em dia;Nenhuma pendencia ativa;05/08/2026
+PAC_0411;Igor Ferreira 43;17/11/1966;59;(11) 95895-4086;DM;Em dia;Nenhuma pendencia ativa;13/10/2026
+PAC_0412;Yasmin Rocha 61;06/06/1966;60;(11) 93292-1417;Saúde Mental;Em dia;Nenhuma pendencia ativa;12/07/2026
+PAC_0413;Nicolas Martins 59;30/10/1961;65;(11) 94111-6622;Saúde Mental;Pendente;Avaliação nutricional pendente;28/06/2026
+PAC_0414;Mariana Ribeiro 74;15/08/1989;37;(11) 93967-5813;HAS;Em dia;Nenhuma pendencia ativa;25/04/2026
+PAC_0415;Vanessa Ramos 33;08/12/1947;78;(11) 96499-2463;DM;Em dia;Nenhuma pendencia ativa;10/08/2026
+PAC_0416;Patricia Gomes 52;01/07/1985;41;(11) 95817-8598;HAS;Em dia;Nenhuma pendencia ativa;31/05/2026
+PAC_0417;William Cunha 89;10/03/2004;22;(11) 94187-9199;HAS;Abandono;Sem contato ha mais de 180 dias na linha;12/08/2026
+PAC_0418;Patricia Gomes 16;03/09/1953;73;(11) 93250-4281;DLP;Em dia;Nenhuma pendencia ativa;02/07/2026
+PAC_0419;Eduardo Pereira 50;19/08/1953;73;(11) 92324-8988;DLP;Pendente;Exames laboratoriais atrasados;13/10/2026
+PAC_0420;Ana Silva 67;26/07/1991;35;(11) 93762-3595;Sobrepeso e Obesidade;Pendente;Exames laboratoriais atrasados;Sem registro
+PAC_0421;Patricia Gomes 91;20/04/1981;45;(11) 98029-8821;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;23/04/2026
+PAC_0422;Mariana Ribeiro 11;09/06/1951;75;(11) 99700-4122;HAS;Pendente;Avaliação nutricional pendente;31/08/2026
+PAC_0423;Mariana Ribeiro 49;16/09/2000;26;(11) 97284-9246;Gestantes;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0424;Bruno Santos 48;25/06/1948;78;(11) 98469-9524;Gestantes;Em dia;Nenhuma pendencia ativa;05/05/2026
+PAC_0425;Eduardo Pereira 53;15/03/1951;75;(11) 96885-4087;DM;Abandono;Sem contato ha mais de 180 dias na linha;16/07/2026
+PAC_0426;Ana Silva 39;03/09/1994;32;(11) 94460-1359;Gestantes;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0427;Bruno Santos 58;28/12/1951;74;(11) 95190-9761;Gestantes;Em dia;Nenhuma pendencia ativa;11/05/2026
+PAC_0428;Daniela Souza 93;09/11/1955;71;(11) 91790-2897;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0429;Igor Ferreira 70;30/08/1964;62;(11) 94366-1152;DLP;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0430;Thiago Moura 44;09/01/1969;57;(11) 93247-7862;HAS;Em dia;Nenhuma pendencia ativa;16/08/2026
+PAC_0431;Daniela Souza 23;04/08/1977;49;(11) 94272-5308;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;15/07/2026
+PAC_0432;Juliana Rodrigues 30;30/01/2006;20;(11) 99132-4402;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;27/10/2026
+PAC_0433;Ana Silva 95;12/09/2003;23;(11) 99095-3443;HAS;Pendente;Exames laboratoriais atrasados;02/10/2026
+PAC_0434;Igor Ferreira 92;21/03/1994;32;(11) 95850-5327;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;17/10/2026
+PAC_0435;Juliana Rodrigues 56;07/12/1956;69;(11) 96123-7979;Saúde Mental;Em dia;Nenhuma pendencia ativa;16/10/2026
+PAC_0436;Ana Silva 27;20/12/1965;60;(11) 93793-6384;DLP;Abandono;Sem contato ha mais de 180 dias na linha;20/08/2026
+PAC_0437;Carlos Oliveira 57;27/05/1956;70;(11) 93996-2865;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;21/07/2026
+PAC_0438;Sabrina Castro 63;23/08/1967;59;(11) 92852-3171;Saúde Mental;Pendente;Exames laboratoriais atrasados;Sem registro
+PAC_0439;William Cunha 71;31/01/1957;69;(11) 98178-3969;Gestantes;Em dia;Nenhuma pendencia ativa;20/10/2026
+PAC_0440;Eduardo Pereira 71;16/03/1950;76;(11) 92850-7738;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;08/08/2026
+PAC_0441;Ana Silva 96;23/01/1975;51;(11) 94669-6542;Gestantes;Em dia;Nenhuma pendencia ativa;03/10/2026
+PAC_0442;Patricia Gomes 94;13/07/1962;64;(11) 98895-6664;Saúde Mental;Pendente;Consulta médica semestral pendente;Sem registro
+PAC_0443;Vanessa Ramos 88;01/11/2005;21;(11) 93571-9283;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;08/10/2026
+PAC_0444;Sabrina Castro 51;24/05/1993;33;(11) 95557-1824;Gestantes;Em dia;Nenhuma pendencia ativa;16/07/2026
+PAC_0445;Helena Carvalho 20;31/03/1979;47;(11) 98341-2442;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0446;Sabrina Castro 93;15/09/2007;19;(11) 97609-7755;HAS;Pendente;Exames laboratoriais atrasados;26/05/2026
+PAC_0447;Yasmin Rocha 91;23/02/1989;37;(11) 94389-8474;DLP;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0448;Helena Carvalho 68;29/01/1987;39;(11) 98751-6952;Saúde Mental;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0449;Helena Carvalho 10;14/05/1987;39;(11) 95783-9973;Gestantes;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0450;Fernanda Lima 73;12/04/2000;26;(11) 92752-5166;Gestantes;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0451;Nicolas Martins 37;08/08/1979;47;(11) 96536-2765;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;08/05/2026
+PAC_0452;William Cunha 25;02/04/1959;67;(11) 98493-9260;DM;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0453;Bruno Santos 80;13/04/1949;77;(11) 98912-9328;DM;Pendente;Exames laboratoriais atrasados;25/09/2026
+PAC_0454;Daniela Souza 59;13/01/1966;60;(11) 96273-9259;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;03/05/2026
+PAC_0455;Helena Carvalho 45;21/05/1983;43;(11) 95819-8419;DM;Em dia;Nenhuma pendencia ativa;19/04/2026
+PAC_0456;Thiago Moura 48;25/11/1954;71;(11) 99975-6143;Saúde Mental;Pendente;Avaliação nutricional pendente;06/09/2026
+PAC_0457;Gabriel Costa 89;22/06/1963;63;(11) 96657-3173;Saúde Mental;Pendente;Exames laboratoriais atrasados;03/05/2026
+PAC_0458;Lucas Almeida 24;21/05/1960;66;(11) 98870-7839;Saúde Mental;Pendente;Avaliação nutricional pendente;11/07/2026
+PAC_0459;Ana Silva 76;26/10/2002;24;(11) 97240-3381;HAS;Pendente;Exames laboratoriais atrasados;16/09/2026
+PAC_0460;Juliana Rodrigues 97;27/08/1992;34;(11) 92016-5835;DM;Pendente;Exames laboratoriais atrasados;04/07/2026
+PAC_0461;Daniela Souza 88;09/12/1952;73;(11) 94675-7371;DM;Em dia;Nenhuma pendencia ativa;02/05/2026
+PAC_0462;Juliana Rodrigues 98;23/10/1966;60;(11) 97251-7349;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;08/08/2026
+PAC_0463;Vanessa Ramos 16;30/06/2008;18;(11) 94327-8259;DM;Abandono;Sem contato ha mais de 180 dias na linha;15/05/2026
+PAC_0464;Mariana Ribeiro 85;10/01/1974;52;(11) 94218-4170;DLP;Em dia;Nenhuma pendencia ativa;08/10/2026
+PAC_0465;Fernanda Lima 32;27/02/1961;65;(11) 92955-7180;HAS;Em dia;Nenhuma pendencia ativa;24/09/2026
+PAC_0466;Fernanda Lima 84;12/07/1954;72;(11) 91092-6415;Sobrepeso e Obesidade;Pendente;Exames laboratoriais atrasados;Sem registro
+PAC_0467;Lucas Almeida 86;21/12/2004;21;(11) 95934-9037;Gestantes;Pendente;Exames laboratoriais atrasados;07/08/2026
+PAC_0468;Thiago Moura 38;19/08/1947;79;(11) 99529-2117;Gestantes;Em dia;Nenhuma pendencia ativa;16/07/2026
+PAC_0469;Carlos Oliveira 54;23/07/1994;32;(11) 96437-6424;DLP;Em dia;Nenhuma pendencia ativa;22/05/2026
+PAC_0470;Thiago Moura 70;17/12/1972;53;(11) 91144-2879;Saúde Mental;Em dia;Nenhuma pendencia ativa;16/05/2026
+PAC_0471;Yasmin Rocha 89;20/10/1993;33;(11) 96258-7248;HAS;Em dia;Nenhuma pendencia ativa;16/08/2026
+PAC_0472;Ana Silva 76;11/05/1956;70;(11) 99426-9335;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;14/05/2026
+PAC_0473;Gabriel Costa 51;02/10/1976;50;(11) 92572-3742;Gestantes;Em dia;Nenhuma pendencia ativa;04/09/2026
+PAC_0474;Gabriel Costa 97;20/09/1981;45;(11) 94368-9810;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;08/07/2026
+PAC_0475;Carlos Oliveira 97;27/10/1999;27;(11) 98523-6434;HAS;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0476;Igor Ferreira 81;17/01/2004;22;(11) 94729-5237;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;09/07/2026
+PAC_0477;Lucas Almeida 12;03/12/1983;42;(11) 92938-9762;HAS;Pendente;Avaliação nutricional pendente;Sem registro
+PAC_0478;William Cunha 15;10/10/1964;62;(11) 96860-9238;HAS;Em dia;Nenhuma pendencia ativa;25/05/2026
+PAC_0479;Carlos Oliveira 46;07/04/1960;66;(11) 97249-7473;Saúde Mental;Em dia;Nenhuma pendencia ativa;01/09/2026
+PAC_0480;Eduardo Pereira 60;12/02/1958;68;(11) 95832-3360;DLP;Pendente;Avaliação nutricional pendente;25/10/2026
+PAC_0481;Vanessa Ramos 81;06/09/1999;27;(11) 91684-1082;Gestantes;Pendente;Avaliação nutricional pendente;06/10/2026
+PAC_0482;Juliana Rodrigues 36;25/05/1961;65;(11) 94469-7760;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0483;Fernanda Lima 38;09/07/1969;57;(11) 94183-2877;DM;Pendente;Avaliação nutricional pendente;18/04/2026
+PAC_0484;Vanessa Ramos 69;08/02/1967;59;(11) 92198-5762;Saúde Mental;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0485;William Cunha 72;04/06/1948;78;(11) 96851-3100;Saúde Mental;Pendente;Exames laboratoriais atrasados;10/10/2026
+PAC_0486;Gabriel Costa 50;28/03/1977;49;(11) 96379-6008;Saúde Mental;Pendente;Avaliação nutricional pendente;08/08/2026
+PAC_0487;Patricia Gomes 31;29/05/2008;18;(11) 95033-4629;Saúde Mental;Pendente;Consulta médica semestral pendente;27/07/2026
+PAC_0488;Eduardo Pereira 96;01/06/1962;64;(11) 98863-8583;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;08/06/2026
+PAC_0489;Daniela Souza 32;10/01/1967;59;(11) 92343-5597;DM;Abandono;Sem contato ha mais de 180 dias na linha;23/04/2026
+PAC_0490;Carlos Oliveira 19;11/11/1951;75;(11) 99309-1511;Gestantes;Pendente;Avaliação nutricional pendente;18/10/2026
+PAC_0491;Vanessa Ramos 43;11/02/1974;52;(11) 98734-3435;DLP;Em dia;Nenhuma pendencia ativa;30/05/2026
+PAC_0492;Juliana Rodrigues 27;02/03/1979;47;(11) 99362-2483;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0493;Helena Carvalho 88;24/08/1965;61;(11) 99423-3299;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;05/06/2026
+PAC_0494;Eduardo Pereira 71;21/05/1948;78;(11) 91662-4585;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;29/08/2026
+PAC_0495;Bruno Santos 95;17/02/1995;31;(11) 96918-7358;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;17/10/2026
+PAC_0496;Lucas Almeida 23;24/02/1963;63;(11) 95480-5314;Gestantes;Em dia;Nenhuma pendencia ativa;13/05/2026
+PAC_0497;Nicolas Martins 56;16/12/1970;55;(11) 92275-9465;DLP;Em dia;Nenhuma pendencia ativa;17/06/2026
+PAC_0498;Nicolas Martins 55;26/05/1956;70;(11) 98976-8898;Gestantes;Em dia;Nenhuma pendencia ativa;07/07/2026
+PAC_0499;Fernanda Lima 39;17/02/2004;22;(11) 95600-4465;DM;Em dia;Nenhuma pendencia ativa;27/04/2026
+PAC_0500;Daniela Souza 94;11/04/1994;32;(11) 96410-2856;Sobrepeso e Obesidade;Pendente;Consulta médica semestral pendente;16/09/2026
+PAC_0501;Patricia Gomes 12;18/10/1993;33;(11) 93095-3639;DM;Pendente;Exames laboratoriais atrasados;20/09/2026
+PAC_0502;Bruno Santos 31;09/08/1992;34;(11) 99464-7642;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;26/04/2026
+PAC_0503;Juliana Rodrigues 20;25/03/1995;31;(11) 98723-8891;DM;Em dia;Nenhuma pendencia ativa;21/09/2026
+PAC_0504;William Cunha 33;13/12/1968;57;(11) 99369-5333;DM;Pendente;Consulta médica semestral pendente;28/05/2026
+PAC_0505;William Cunha 18;30/04/1994;32;(11) 97315-3166;HAS;Em dia;Nenhuma pendencia ativa;20/06/2026
+PAC_0506;Patricia Gomes 29;27/09/1970;56;(11) 93906-8796;Gestantes;Pendente;Avaliação nutricional pendente;27/09/2026
+PAC_0507;Carlos Oliveira 71;11/09/1966;60;(11) 99835-1019;Saúde Mental;Pendente;Avaliação nutricional pendente;16/10/2026
+PAC_0508;Thiago Moura 64;08/03/1994;32;(11) 97246-6742;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;02/05/2026
+PAC_0509;William Cunha 22;05/09/1981;45;(11) 95170-8817;DM;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0510;Yasmin Rocha 79;04/07/1982;44;(11) 94096-1089;Saúde Mental;Pendente;Exames laboratoriais atrasados;27/09/2026
+PAC_0511;Thiago Moura 10;12/12/1983;42;(11) 94365-6175;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;14/05/2026
+PAC_0512;William Cunha 42;09/02/1992;34;(11) 97939-6990;Gestantes;Em dia;Nenhuma pendencia ativa;17/04/2026
+PAC_0513;Gabriel Costa 62;02/02/1973;53;(11) 98904-3928;DLP;Pendente;Consulta médica semestral pendente;10/08/2026
+PAC_0514;William Cunha 54;22/11/1958;67;(11) 97522-3262;Saúde Mental;Em dia;Nenhuma pendencia ativa;01/05/2026
+PAC_0515;Fernanda Lima 22;22/02/1995;31;(11) 97562-6544;Gestantes;Pendente;Avaliação nutricional pendente;16/09/2026
+PAC_0516;Nicolas Martins 91;20/09/2008;18;(11) 93381-8727;Gestantes;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0517;Helena Carvalho 57;31/12/2002;23;(11) 91618-7296;Sobrepeso e Obesidade;Pendente;Avaliação nutricional pendente;28/05/2026
+PAC_0518;Bruno Santos 32;07/03/1968;58;(11) 98192-1175;DM;Abandono;Sem contato ha mais de 180 dias na linha;17/06/2026
+PAC_0519;Juliana Rodrigues 34;04/01/2006;20;(11) 99364-9451;Saúde Mental;Em dia;Nenhuma pendencia ativa;18/10/2026
+PAC_0520;Mariana Ribeiro 40;16/11/1967;59;(11) 93579-2422;DLP;Pendente;Consulta médica semestral pendente;16/07/2026
+PAC_0521;William Cunha 35;07/11/1975;51;(11) 92124-2477;Gestantes;Em dia;Nenhuma pendencia ativa;31/05/2026
+PAC_0522;Mariana Ribeiro 54;03/07/1947;79;(11) 94707-4187;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;22/08/2026
+PAC_0523;Fernanda Lima 62;20/09/1976;50;(11) 92185-9243;DLP;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0524;Thiago Moura 42;18/02/1952;74;(11) 95098-8254;Sobrepeso e Obesidade;Pendente;Exames laboratoriais atrasados;02/07/2026
+PAC_0525;Rafael Barbosa 85;05/11/1953;73;(11) 98896-2904;DLP;Em dia;Nenhuma pendencia ativa;01/09/2026
+PAC_0526;Helena Carvalho 50;16/05/1982;44;(11) 99462-9776;HAS;Pendente;Consulta médica semestral pendente;04/10/2026
+PAC_0527;Nicolas Martins 96;26/05/1961;65;(11) 92245-3924;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;03/06/2026
+PAC_0528;Igor Ferreira 33;07/12/1947;78;(11) 94115-9175;Saúde Mental;Em dia;Nenhuma pendencia ativa;21/08/2026
+PAC_0529;Gabriel Costa 39;04/07/1996;30;(11) 96833-3555;HAS;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0530;Sabrina Castro 88;02/02/2008;18;(11) 91692-8901;DLP;Pendente;Consulta médica semestral pendente;02/06/2026
+PAC_0531;Igor Ferreira 72;20/02/1997;29;(11) 95591-7518;DM;Pendente;Exames laboratoriais atrasados;Sem registro
+PAC_0532;Patricia Gomes 71;18/02/1948;78;(11) 91533-9232;DLP;Em dia;Nenhuma pendencia ativa;13/09/2026
+PAC_0533;Rafael Barbosa 25;25/02/1964;62;(11) 98537-6171;Saúde Mental;Em dia;Nenhuma pendencia ativa;22/07/2026
+PAC_0534;William Cunha 22;09/05/1988;38;(11) 95254-4066;Gestantes;Em dia;Nenhuma pendencia ativa;24/05/2026
+PAC_0535;Lucas Almeida 56;26/02/1997;29;(11) 97945-4449;Sobrepeso e Obesidade;Pendente;Consulta médica semestral pendente;17/07/2026
+PAC_0536;Igor Ferreira 67;20/01/1997;29;(11) 93148-4744;HAS;Pendente;Exames laboratoriais atrasados;22/07/2026
+PAC_0537;Gabriel Costa 28;03/09/1957;69;(11) 98749-1159;DM;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0538;Thiago Moura 78;09/06/1962;64;(11) 98972-5915;DLP;Pendente;Avaliação nutricional pendente;Sem registro
+PAC_0539;Daniela Souza 98;09/10/1998;28;(11) 94530-5166;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0540;Lucas Almeida 43;11/05/1985;41;(11) 95222-6638;HAS;Em dia;Nenhuma pendencia ativa;07/05/2026
+PAC_0541;Yasmin Rocha 35;25/01/1972;54;(11) 99821-3859;DLP;Em dia;Nenhuma pendencia ativa;25/06/2026
+PAC_0542;Rafael Barbosa 20;02/01/1984;42;(11) 95694-8598;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;17/05/2026
+PAC_0543;Lucas Almeida 63;07/01/1968;58;(11) 97631-2168;HAS;Em dia;Nenhuma pendencia ativa;07/08/2026
+PAC_0544;Juliana Rodrigues 44;20/12/1969;56;(11) 97479-5444;Sobrepeso e Obesidade;Pendente;Consulta médica semestral pendente;16/06/2026
+PAC_0545;Rafael Barbosa 62;06/08/1998;28;(11) 91378-3048;Saúde Mental;Em dia;Nenhuma pendencia ativa;20/04/2026
+PAC_0546;Carlos Oliveira 36;19/04/1998;28;(11) 92687-2565;HAS;Abandono;Sem contato ha mais de 180 dias na linha;14/10/2026
+PAC_0547;Ana Silva 60;03/10/1975;51;(11) 92702-5300;Gestantes;Em dia;Nenhuma pendencia ativa;20/07/2026
+PAC_0548;Juliana Rodrigues 39;17/06/1993;33;(11) 98260-3071;DM;Em dia;Nenhuma pendencia ativa;19/10/2026
+PAC_0549;Mariana Ribeiro 51;21/03/1953;73;(11) 98654-9856;DLP;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0550;Vanessa Ramos 32;14/01/1971;55;(11) 98480-8126;Gestantes;Pendente;Avaliação nutricional pendente;31/07/2026
+PAC_0551;Sabrina Castro 79;25/09/1994;32;(11) 98239-6044;DLP;Em dia;Nenhuma pendencia ativa;25/10/2026
+PAC_0552;Ana Silva 76;10/09/1956;70;(11) 96634-5698;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;24/06/2026
+PAC_0553;Sabrina Castro 48;30/03/2008;18;(11) 95799-4788;HAS;Em dia;Nenhuma pendencia ativa;06/06/2026
+PAC_0554;Patricia Gomes 60;18/08/1993;33;(11) 97385-7199;DM;Em dia;Nenhuma pendencia ativa;27/08/2026
+PAC_0555;Thiago Moura 88;28/11/1956;69;(11) 95454-5664;Saúde Mental;Pendente;Consulta médica semestral pendente;10/10/2026
+PAC_0556;Fernanda Lima 27;15/09/1990;36;(11) 98460-8418;DLP;Pendente;Consulta médica semestral pendente;23/10/2026
+PAC_0557;Eduardo Pereira 16;21/02/1946;80;(11) 91362-4046;HAS;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0558;Rafael Barbosa 11;24/09/1994;32;(11) 93468-1241;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;22/06/2026
+PAC_0559;Mariana Ribeiro 69;31/10/1964;62;(11) 96410-2314;DM;Em dia;Nenhuma pendencia ativa;09/10/2026
+PAC_0560;Vanessa Ramos 70;02/08/1997;29;(11) 95097-7251;HAS;Em dia;Nenhuma pendencia ativa;25/08/2026
+PAC_0561;Nicolas Martins 66;23/10/1993;33;(11) 94263-8550;Saúde Mental;Pendente;Avaliação nutricional pendente;04/09/2026
+PAC_0562;Sabrina Castro 59;10/06/1965;61;(11) 96293-3598;Saúde Mental;Pendente;Avaliação nutricional pendente;16/06/2026
+PAC_0563;Daniela Souza 42;22/12/1977;48;(11) 95895-4255;DLP;Abandono;Sem contato ha mais de 180 dias na linha;02/09/2026
+PAC_0564;Daniela Souza 40;07/04/1968;58;(11) 96316-1246;DM;Pendente;Avaliação nutricional pendente;Sem registro
+PAC_0565;Helena Carvalho 11;31/10/1946;80;(11) 98786-3539;DLP;Pendente;Exames laboratoriais atrasados;04/10/2026
+PAC_0566;Yasmin Rocha 53;04/01/1949;77;(11) 91983-1979;DLP;Pendente;Avaliação nutricional pendente;30/09/2026
+PAC_0567;Eduardo Pereira 72;31/05/1994;32;(11) 96690-8187;Saúde Mental;Em dia;Nenhuma pendencia ativa;28/07/2026
+PAC_0568;Eduardo Pereira 42;31/10/1951;75;(11) 98951-8168;Gestantes;Em dia;Nenhuma pendencia ativa;09/09/2026
+PAC_0569;William Cunha 33;20/05/1974;52;(11) 96303-8674;DLP;Abandono;Sem contato ha mais de 180 dias na linha;08/06/2026
+PAC_0570;Fernanda Lima 18;27/08/1975;51;(11) 98362-5844;DLP;Em dia;Nenhuma pendencia ativa;17/05/2026
+PAC_0571;Thiago Moura 58;15/08/1962;64;(11) 91306-6965;Gestantes;Em dia;Nenhuma pendencia ativa;12/05/2026
+PAC_0572;Vanessa Ramos 59;14/02/1996;30;(11) 99151-3525;Gestantes;Em dia;Nenhuma pendencia ativa;06/08/2026
+PAC_0573;Daniela Souza 22;12/12/1974;51;(11) 92092-1717;DM;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0574;Daniela Souza 72;19/09/1996;30;(11) 91521-7366;Saúde Mental;Em dia;Nenhuma pendencia ativa;29/05/2026
+PAC_0575;Igor Ferreira 16;21/07/1985;41;(11) 92161-1214;DM;Pendente;Exames laboratoriais atrasados;17/05/2026
+PAC_0576;Bruno Santos 56;16/04/1973;53;(11) 97046-1955;Gestantes;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0577;Carlos Oliveira 48;19/07/2004;22;(11) 99511-2591;HAS;Pendente;Avaliação nutricional pendente;08/09/2026
+PAC_0578;Thiago Moura 94;22/01/1993;33;(11) 93931-7802;Saúde Mental;Em dia;Nenhuma pendencia ativa;28/07/2026
+PAC_0579;Rafael Barbosa 99;12/04/1966;60;(11) 92705-3733;DM;Em dia;Nenhuma pendencia ativa;12/05/2026
+PAC_0580;Fernanda Lima 78;03/04/1970;56;(11) 96772-6163;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;24/07/2026
+PAC_0581;Patricia Gomes 91;31/05/1981;45;(11) 94943-9939;DM;Em dia;Nenhuma pendencia ativa;20/04/2026
+PAC_0582;Igor Ferreira 56;04/04/1947;79;(11) 98331-7505;HAS;Pendente;Consulta médica semestral pendente;17/06/2026
+PAC_0583;Eduardo Pereira 48;05/06/2008;18;(11) 94635-4519;DLP;Em dia;Nenhuma pendencia ativa;04/05/2026
+PAC_0584;Igor Ferreira 80;03/02/1976;50;(11) 93534-2544;HAS;Em dia;Nenhuma pendencia ativa;21/08/2026
+PAC_0585;Mariana Ribeiro 84;13/07/1993;33;(11) 95198-5920;HAS;Pendente;Avaliação nutricional pendente;23/04/2026
+PAC_0586;Carlos Oliveira 51;16/03/1958;68;(11) 93832-8999;Saúde Mental;Pendente;Exames laboratoriais atrasados;12/08/2026
+PAC_0587;Bruno Santos 83;02/10/1984;42;(11) 91916-6478;DLP;Abandono;Sem contato ha mais de 180 dias na linha;27/09/2026
+PAC_0588;Helena Carvalho 93;15/01/1954;72;(11) 91187-7266;HAS;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0589;Vanessa Ramos 82;25/05/1999;27;(11) 99231-4617;DM;Em dia;Nenhuma pendencia ativa;19/07/2026
+PAC_0590;Rafael Barbosa 86;01/03/1972;54;(11) 92475-4638;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;24/09/2026
+PAC_0591;Lucas Almeida 20;25/01/1978;48;(11) 91807-9980;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;08/07/2026
+PAC_0592;Eduardo Pereira 27;31/01/1978;48;(11) 94245-8993;Sobrepeso e Obesidade;Pendente;Exames laboratoriais atrasados;22/04/2026
+PAC_0593;Thiago Moura 41;04/10/1993;33;(11) 95362-8046;DLP;Pendente;Avaliação nutricional pendente;Sem registro
+PAC_0594;Patricia Gomes 64;17/05/1985;41;(11) 94120-6254;DLP;Pendente;Exames laboratoriais atrasados;14/09/2026
+PAC_0595;Mariana Ribeiro 88;06/04/1956;70;(11) 93389-8216;HAS;Abandono;Sem contato ha mais de 180 dias na linha;05/05/2026
+PAC_0596;Mariana Ribeiro 29;05/10/1960;66;(11) 92841-1893;DM;Abandono;Sem contato ha mais de 180 dias na linha;15/08/2026
+PAC_0597;Ana Silva 53;21/09/1964;62;(11) 95999-8373;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;12/06/2026
+PAC_0598;Gabriel Costa 36;20/02/1974;52;(11) 95237-9991;Sobrepeso e Obesidade;Pendente;Exames laboratoriais atrasados;09/05/2026
+PAC_0599;Ana Silva 58;11/12/1970;55;(11) 99631-1712;DLP;Em dia;Nenhuma pendencia ativa;02/05/2026
+PAC_0600;Yasmin Rocha 44;13/03/2005;21;(11) 91136-2091;Sobrepeso e Obesidade;Pendente;Avaliação nutricional pendente;12/05/2026
+PAC_0601;Mariana Ribeiro 23;10/06/2007;19;(11) 97332-4787;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;08/08/2026
+PAC_0602;Sabrina Castro 86;30/09/1974;52;(11) 94054-4258;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;28/04/2026
+PAC_0603;Ana Silva 15;11/02/1993;33;(11) 95995-6465;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;31/07/2026
+PAC_0604;Mariana Ribeiro 55;14/06/1968;58;(11) 94869-9212;DLP;Abandono;Sem contato ha mais de 180 dias na linha;20/07/2026
+PAC_0605;Ana Silva 81;30/06/1948;78;(11) 94695-3485;DLP;Abandono;Sem contato ha mais de 180 dias na linha;05/10/2026
+PAC_0606;Nicolas Martins 76;09/12/1946;79;(11) 94726-7837;DM;Pendente;Consulta médica semestral pendente;26/05/2026
+PAC_0607;Lucas Almeida 67;08/09/1974;52;(11) 94387-3270;Gestantes;Em dia;Nenhuma pendencia ativa;22/09/2026
+PAC_0608;Juliana Rodrigues 98;22/02/1963;63;(11) 93215-8046;DM;Pendente;Avaliação nutricional pendente;07/08/2026
+PAC_0609;Carlos Oliveira 81;15/09/1974;52;(11) 94016-6203;DM;Pendente;Consulta médica semestral pendente;14/07/2026
+PAC_0610;Patricia Gomes 48;22/12/1979;46;(11) 95485-3489;DM;Em dia;Nenhuma pendencia ativa;15/04/2026
+PAC_0611;Yasmin Rocha 88;04/01/1991;35;(11) 94783-4804;DM;Pendente;Consulta médica semestral pendente;Sem registro
+PAC_0612;Sabrina Castro 27;09/01/1976;50;(11) 98680-7126;DM;Abandono;Sem contato ha mais de 180 dias na linha;22/09/2026
+PAC_0613;Fernanda Lima 34;24/10/1994;32;(11) 97694-1245;DLP;Abandono;Sem contato ha mais de 180 dias na linha;09/05/2026
+PAC_0614;Gabriel Costa 36;08/08/2004;22;(11) 98197-9027;Saúde Mental;Em dia;Nenhuma pendencia ativa;25/08/2026
+PAC_0615;Patricia Gomes 61;28/10/1959;67;(11) 97232-6126;Sobrepeso e Obesidade;Pendente;Avaliação nutricional pendente;12/06/2026
+PAC_0616;Thiago Moura 92;25/11/1951;74;(11) 91630-9530;HAS;Em dia;Nenhuma pendencia ativa;17/10/2026
+PAC_0617;Helena Carvalho 76;26/04/1974;52;(11) 91643-7347;Gestantes;Pendente;Exames laboratoriais atrasados;07/07/2026
+PAC_0618;Nicolas Martins 48;25/06/1959;67;(11) 98558-3727;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;04/05/2026
+PAC_0619;Thiago Moura 28;18/12/1978;47;(11) 98400-2481;Saúde Mental;Em dia;Nenhuma pendencia ativa;31/05/2026
+PAC_0620;Vanessa Ramos 27;15/04/1983;43;(11) 96299-8387;HAS;Em dia;Nenhuma pendencia ativa;28/04/2026
+PAC_0621;Gabriel Costa 68;02/07/2003;23;(11) 96309-3686;Saúde Mental;Pendente;Exames laboratoriais atrasados;Sem registro
+PAC_0622;Rafael Barbosa 91;29/09/1985;41;(11) 99582-7292;Saúde Mental;Pendente;Avaliação nutricional pendente;17/09/2026
+PAC_0623;Nicolas Martins 80;20/10/1984;42;(11) 93799-6491;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;16/09/2026
+PAC_0624;Eduardo Pereira 32;19/11/1958;67;(11) 91840-7874;DLP;Em dia;Nenhuma pendencia ativa;05/07/2026
+PAC_0625;Juliana Rodrigues 90;09/09/1997;29;(11) 93155-4323;HAS;Pendente;Consulta médica semestral pendente;Sem registro
+PAC_0626;Sabrina Castro 73;12/11/1974;52;(11) 99084-4897;DM;Pendente;Consulta médica semestral pendente;06/07/2026
+PAC_0627;Carlos Oliveira 86;12/11/1970;56;(11) 95009-9967;DLP;Pendente;Avaliação nutricional pendente;04/09/2026
+PAC_0628;Bruno Santos 33;11/10/1999;27;(11) 96718-1601;DM;Abandono;Sem contato ha mais de 180 dias na linha;26/05/2026
+PAC_0629;Juliana Rodrigues 52;07/10/1950;76;(11) 91803-2784;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;16/08/2026
+PAC_0630;Yasmin Rocha 94;24/11/1963;62;(11) 93906-8460;Saúde Mental;Pendente;Exames laboratoriais atrasados;Sem registro
+PAC_0631;Juliana Rodrigues 51;01/05/1985;41;(11) 92108-8001;Gestantes;Em dia;Nenhuma pendencia ativa;26/09/2026
+PAC_0632;Igor Ferreira 52;17/04/1975;51;(11) 99595-4438;Saúde Mental;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0633;William Cunha 90;01/10/1975;51;(11) 98924-5705;Sobrepeso e Obesidade;Pendente;Consulta médica semestral pendente;02/06/2026
+PAC_0634;Yasmin Rocha 55;15/09/1949;77;(11) 99132-9514;Saúde Mental;Pendente;Consulta médica semestral pendente;24/05/2026
+PAC_0635;Helena Carvalho 47;14/08/1946;80;(11) 91025-2936;HAS;Em dia;Nenhuma pendencia ativa;22/04/2026
+PAC_0636;Gabriel Costa 88;15/04/1982;44;(11) 91745-6468;DLP;Pendente;Avaliação nutricional pendente;17/05/2026
+PAC_0637;Gabriel Costa 98;03/07/1990;36;(11) 92111-6042;DLP;Em dia;Nenhuma pendencia ativa;26/10/2026
+PAC_0638;Daniela Souza 97;21/05/1987;39;(11) 97488-1477;DM;Em dia;Nenhuma pendencia ativa;08/05/2026
+PAC_0639;Sabrina Castro 70;31/10/1957;69;(11) 93224-8888;DM;Pendente;Avaliação nutricional pendente;01/07/2026
+PAC_0640;Patricia Gomes 17;26/02/1955;71;(11) 95904-6169;Gestantes;Em dia;Nenhuma pendencia ativa;05/05/2026
+PAC_0641;Lucas Almeida 55;22/08/2004;22;(11) 95595-1510;DLP;Abandono;Sem contato ha mais de 180 dias na linha;15/09/2026
+PAC_0642;William Cunha 87;08/08/1984;42;(11) 92914-6050;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;19/08/2026
+PAC_0643;Patricia Gomes 21;15/07/1977;49;(11) 97088-8404;DLP;Em dia;Nenhuma pendencia ativa;29/09/2026
+PAC_0644;Mariana Ribeiro 14;07/08/1959;67;(11) 92517-8270;Gestantes;Em dia;Nenhuma pendencia ativa;21/06/2026
+PAC_0645;Eduardo Pereira 34;09/03/1987;39;(11) 99579-6084;DLP;Em dia;Nenhuma pendencia ativa;17/06/2026
+PAC_0646;Eduardo Pereira 36;30/10/1962;64;(11) 98526-7350;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0647;Juliana Rodrigues 15;16/01/1965;61;(11) 92426-6460;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0648;Juliana Rodrigues 12;08/06/1972;54;(11) 94438-6257;DM;Em dia;Nenhuma pendencia ativa;07/08/2026
+PAC_0649;Rafael Barbosa 95;21/06/2001;25;(11) 93446-3580;DLP;Em dia;Nenhuma pendencia ativa;06/06/2026
+PAC_0650;Thiago Moura 23;05/02/1995;31;(11) 96739-6218;DLP;Em dia;Nenhuma pendencia ativa;16/08/2026
+PAC_0651;William Cunha 41;03/10/1998;28;(11) 96101-6549;Gestantes;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0652;Sabrina Castro 96;13/09/2005;21;(11) 97284-1881;HAS;Em dia;Nenhuma pendencia ativa;28/05/2026
+PAC_0653;William Cunha 90;01/12/1954;71;(11) 98304-6826;DLP;Em dia;Nenhuma pendencia ativa;16/04/2026
+PAC_0654;Vanessa Ramos 20;28/03/1946;80;(11) 93159-2522;Saúde Mental;Em dia;Nenhuma pendencia ativa;05/05/2026
+PAC_0655;Rafael Barbosa 70;18/07/1994;32;(11) 93354-5227;DLP;Em dia;Nenhuma pendencia ativa;10/05/2026
+PAC_0656;Lucas Almeida 51;09/03/1979;47;(11) 91495-2070;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;14/09/2026
+PAC_0657;Juliana Rodrigues 54;25/01/1970;56;(11) 93087-9322;HAS;Em dia;Nenhuma pendencia ativa;30/09/2026
+PAC_0658;Lucas Almeida 81;11/10/1967;59;(11) 95949-9728;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;22/05/2026
+PAC_0659;Helena Carvalho 80;07/03/1998;28;(11) 97288-2082;DLP;Em dia;Nenhuma pendencia ativa;09/07/2026
+PAC_0660;Patricia Gomes 82;27/05/1958;68;(11) 99921-4869;DM;Pendente;Exames laboratoriais atrasados;28/04/2026
+PAC_0661;William Cunha 72;08/01/2001;25;(11) 98584-6330;Gestantes;Em dia;Nenhuma pendencia ativa;10/08/2026
+PAC_0662;Nicolas Martins 18;21/09/1970;56;(11) 97208-6364;Sobrepeso e Obesidade;Pendente;Exames laboratoriais atrasados;Sem registro
+PAC_0663;Eduardo Pereira 84;30/12/1950;75;(11) 91003-3403;Saúde Mental;Em dia;Nenhuma pendencia ativa;20/07/2026
+PAC_0664;Yasmin Rocha 83;04/08/1980;46;(11) 94369-6187;DLP;Pendente;Avaliação nutricional pendente;08/07/2026
+PAC_0665;Mariana Ribeiro 21;11/11/1971;55;(11) 99362-7622;DM;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0666;Vanessa Ramos 16;11/11/2007;18;(11) 96885-2797;DLP;Abandono;Sem contato ha mais de 180 dias na linha;01/05/2026
+PAC_0667;William Cunha 60;06/06/1968;58;(11) 97271-7652;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;13/09/2026
+PAC_0668;Sabrina Castro 27;29/01/1996;30;(11) 97301-6902;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;09/05/2026
+PAC_0669;Eduardo Pereira 27;30/09/2008;18;(11) 91257-3359;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;23/09/2026
+PAC_0670;Carlos Oliveira 27;18/04/1967;59;(11) 98471-7974;Gestantes;Em dia;Nenhuma pendencia ativa;08/06/2026
+PAC_0671;Rafael Barbosa 59;19/07/1986;40;(11) 94044-7959;Gestantes;Em dia;Nenhuma pendencia ativa;23/04/2026
+PAC_0672;Helena Carvalho 74;14/04/1991;35;(11) 99948-7012;HAS;Abandono;Sem contato ha mais de 180 dias na linha;30/04/2026
+PAC_0673;Mariana Ribeiro 24;14/03/1971;55;(11) 92311-3327;Saúde Mental;Pendente;Consulta médica semestral pendente;07/10/2026
+PAC_0674;Thiago Moura 88;05/07/2003;23;(11) 98740-2279;Saúde Mental;Pendente;Avaliação nutricional pendente;14/10/2026
+PAC_0675;Lucas Almeida 78;13/11/1959;67;(11) 98681-8438;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;04/08/2026
+PAC_0676;Patricia Gomes 55;24/06/1947;79;(11) 95738-3744;HAS;Pendente;Avaliação nutricional pendente;24/04/2026
+PAC_0677;William Cunha 43;19/12/2004;21;(11) 98752-3770;Gestantes;Em dia;Nenhuma pendencia ativa;22/04/2026
+PAC_0678;Yasmin Rocha 13;07/03/1990;36;(11) 92351-3077;Gestantes;Em dia;Nenhuma pendencia ativa;24/08/2026
+PAC_0679;Eduardo Pereira 88;23/06/1991;35;(11) 95209-1232;Saúde Mental;Em dia;Nenhuma pendencia ativa;29/05/2026
+PAC_0680;Eduardo Pereira 94;07/05/1980;46;(11) 93873-5280;Saúde Mental;Em dia;Nenhuma pendencia ativa;14/06/2026
+PAC_0681;Bruno Santos 53;09/10/1946;80;(11) 93376-3525;Sobrepeso e Obesidade;Pendente;Consulta médica semestral pendente;28/08/2026
+PAC_0682;Rafael Barbosa 91;24/07/1998;28;(11) 96653-1890;Saúde Mental;Em dia;Nenhuma pendencia ativa;14/10/2026
+PAC_0683;Fernanda Lima 69;14/03/1983;43;(11) 95937-8803;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;29/08/2026
+PAC_0684;Nicolas Martins 97;02/05/1963;63;(11) 98775-5302;DM;Em dia;Nenhuma pendencia ativa;15/08/2026
+PAC_0685;Rafael Barbosa 58;08/06/1965;61;(11) 99687-1672;HAS;Abandono;Sem contato ha mais de 180 dias na linha;09/07/2026
+PAC_0686;Yasmin Rocha 93;03/07/1954;72;(11) 96488-5429;DLP;Abandono;Sem contato ha mais de 180 dias na linha;31/05/2026
+PAC_0687;Nicolas Martins 69;08/12/1958;67;(11) 94961-4193;Gestantes;Em dia;Nenhuma pendencia ativa;11/09/2026
+PAC_0688;Lucas Almeida 80;27/11/2007;18;(11) 91138-2113;HAS;Em dia;Nenhuma pendencia ativa;05/05/2026
+PAC_0689;Rafael Barbosa 54;17/06/1994;32;(11) 95127-4163;HAS;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0690;Yasmin Rocha 94;01/08/1951;75;(11) 92995-2965;HAS;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0691;William Cunha 33;25/09/1951;75;(11) 94018-5150;DLP;Em dia;Nenhuma pendencia ativa;17/05/2026
+PAC_0692;Rafael Barbosa 45;14/04/1959;67;(11) 96298-5216;DM;Pendente;Consulta médica semestral pendente;22/07/2026
+PAC_0693;Nicolas Martins 52;27/06/2005;21;(11) 95336-3915;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;06/09/2026
+PAC_0694;Yasmin Rocha 60;13/12/1996;29;(11) 99061-2776;DM;Em dia;Nenhuma pendencia ativa;23/05/2026
+PAC_0695;Daniela Souza 66;08/07/1963;63;(11) 92692-1571;HAS;Em dia;Nenhuma pendencia ativa;05/07/2026
+PAC_0696;Ana Silva 73;09/12/1998;27;(11) 91014-1619;Saúde Mental;Em dia;Nenhuma pendencia ativa;04/08/2026
+PAC_0697;Nicolas Martins 83;16/02/2008;18;(11) 99039-8833;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;10/10/2026
+PAC_0698;Vanessa Ramos 38;23/04/2008;18;(11) 98898-2985;Gestantes;Em dia;Nenhuma pendencia ativa;03/08/2026
+PAC_0699;Juliana Rodrigues 61;18/12/2004;21;(11) 92485-6985;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;02/07/2026
+PAC_0700;Juliana Rodrigues 92;10/08/1996;30;(11) 91644-7294;Saúde Mental;Em dia;Nenhuma pendencia ativa;30/09/2026
+PAC_0701;Mariana Ribeiro 72;19/12/2002;23;(11) 98175-4104;DM;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0702;William Cunha 40;28/04/1977;49;(11) 92032-9856;Saúde Mental;Em dia;Nenhuma pendencia ativa;04/07/2026
+PAC_0703;Ana Silva 14;14/10/1987;39;(11) 96533-1701;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;10/05/2026
+PAC_0704;Thiago Moura 68;09/12/1947;78;(11) 99791-3440;Saúde Mental;Pendente;Exames laboratoriais atrasados;Sem registro
+PAC_0705;Eduardo Pereira 72;07/11/1967;59;(11) 98720-1750;DM;Pendente;Exames laboratoriais atrasados;Sem registro
+PAC_0706;Bruno Santos 49;30/09/1956;70;(11) 98474-3796;Gestantes;Em dia;Nenhuma pendencia ativa;28/09/2026
+PAC_0707;Sabrina Castro 86;07/01/1957;69;(11) 94613-2033;DM;Em dia;Nenhuma pendencia ativa;22/04/2026
+PAC_0708;Nicolas Martins 51;22/11/2000;25;(11) 99943-3250;DLP;Abandono;Sem contato ha mais de 180 dias na linha;15/04/2026
+PAC_0709;Bruno Santos 85;21/05/1997;29;(11) 92035-2978;DLP;Em dia;Nenhuma pendencia ativa;02/05/2026
+PAC_0710;Mariana Ribeiro 80;29/03/1998;28;(11) 94991-1666;DM;Em dia;Nenhuma pendencia ativa;24/05/2026
+PAC_0711;Nicolas Martins 30;02/03/2007;19;(11) 92322-1104;HAS;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0712;William Cunha 46;22/11/1981;44;(11) 98798-3079;DM;Em dia;Nenhuma pendencia ativa;04/07/2026
+PAC_0713;Patricia Gomes 40;23/08/1948;78;(11) 91616-3949;Saúde Mental;Em dia;Nenhuma pendencia ativa;20/05/2026
+PAC_0714;Juliana Rodrigues 54;10/11/1982;44;(11) 94860-4144;HAS;Abandono;Sem contato ha mais de 180 dias na linha;22/05/2026
+PAC_0715;Mariana Ribeiro 79;24/07/1976;50;(11) 98605-4409;DLP;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0716;Eduardo Pereira 97;22/03/1954;72;(11) 99151-3888;DM;Pendente;Exames laboratoriais atrasados;Sem registro
+PAC_0717;Mariana Ribeiro 46;01/04/1995;31;(11) 95118-6477;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;16/10/2026
+PAC_0718;Daniela Souza 16;18/02/1949;77;(11) 93881-3589;HAS;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0719;Helena Carvalho 66;23/01/1971;55;(11) 96340-7865;DM;Pendente;Consulta médica semestral pendente;29/09/2026
+PAC_0720;Lucas Almeida 39;09/07/2002;24;(11) 97759-4276;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0721;William Cunha 72;28/03/2005;21;(11) 93374-4541;Gestantes;Em dia;Nenhuma pendencia ativa;23/09/2026
+PAC_0722;Rafael Barbosa 34;16/05/1968;58;(11) 95418-4313;DLP;Em dia;Nenhuma pendencia ativa;12/10/2026
+PAC_0723;Igor Ferreira 27;14/03/2001;25;(11) 98513-7852;DM;Pendente;Exames laboratoriais atrasados;26/05/2026
+PAC_0724;Fernanda Lima 91;12/01/1948;78;(11) 93784-4763;HAS;Em dia;Nenhuma pendencia ativa;02/09/2026
+PAC_0725;William Cunha 70;28/03/1955;71;(11) 95573-1237;Saúde Mental;Em dia;Nenhuma pendencia ativa;25/08/2026
+PAC_0726;Lucas Almeida 65;25/07/1971;55;(11) 93440-1083;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0727;Sabrina Castro 74;03/04/2006;20;(11) 99701-7460;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;02/10/2026
+PAC_0728;Rafael Barbosa 73;28/09/1993;33;(11) 91203-7662;DM;Em dia;Nenhuma pendencia ativa;15/05/2026
+PAC_0729;Carlos Oliveira 12;06/12/1977;48;(11) 95994-3650;Saúde Mental;Em dia;Nenhuma pendencia ativa;31/05/2026
+PAC_0730;Ana Silva 68;04/09/1979;47;(11) 97641-4030;DLP;Pendente;Avaliação nutricional pendente;20/05/2026
+PAC_0731;Carlos Oliveira 59;02/12/1950;75;(11) 96454-9698;HAS;Em dia;Nenhuma pendencia ativa;02/05/2026
+PAC_0732;Yasmin Rocha 79;31/07/1972;54;(11) 92326-6500;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;08/05/2026
+PAC_0733;Mariana Ribeiro 16;25/04/2001;25;(11) 96989-8624;Gestantes;Em dia;Nenhuma pendencia ativa;15/05/2026
+PAC_0734;Vanessa Ramos 18;16/11/1972;53;(11) 94354-3267;DLP;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0735;Sabrina Castro 84;25/11/1952;73;(11) 94437-4693;DLP;Em dia;Nenhuma pendencia ativa;06/05/2026
+PAC_0736;Patricia Gomes 45;05/10/2005;21;(11) 97108-6656;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;26/09/2026
+PAC_0737;Sabrina Castro 78;17/02/1965;61;(11) 95788-8405;Gestantes;Em dia;Nenhuma pendencia ativa;03/05/2026
+PAC_0738;Carlos Oliveira 34;31/03/1951;75;(11) 92430-2313;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;08/10/2026
+PAC_0739;Daniela Souza 31;14/09/1991;35;(11) 93424-9131;DM;Abandono;Sem contato ha mais de 180 dias na linha;20/05/2026
+PAC_0740;Ana Silva 47;28/11/1981;44;(11) 99870-3163;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;15/05/2026
+PAC_0741;Ana Silva 47;07/10/1996;30;(11) 91361-4806;Gestantes;Pendente;Consulta médica semestral pendente;13/05/2026
+PAC_0742;Lucas Almeida 72;10/12/1970;55;(11) 99686-9986;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;10/08/2026
+PAC_0743;Fernanda Lima 43;07/03/1994;32;(11) 97093-5720;HAS;Em dia;Nenhuma pendencia ativa;15/09/2026
+PAC_0744;Yasmin Rocha 30;16/02/1963;63;(11) 95673-3986;DM;Abandono;Sem contato ha mais de 180 dias na linha;10/05/2026
+PAC_0745;Eduardo Pereira 30;11/09/1993;33;(11) 91674-6187;Gestantes;Em dia;Nenhuma pendencia ativa;10/09/2026
+PAC_0746;Gabriel Costa 81;31/10/1963;63;(11) 96192-6633;DM;Em dia;Nenhuma pendencia ativa;16/09/2026
+PAC_0747;Vanessa Ramos 48;26/10/2001;25;(11) 97628-9182;DM;Abandono;Sem contato ha mais de 180 dias na linha;18/09/2026
+PAC_0748;Ana Silva 79;07/03/1946;80;(11) 96427-5842;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;17/04/2026
+PAC_0749;William Cunha 95;23/01/1999;27;(11) 98243-6549;Saúde Mental;Em dia;Nenhuma pendencia ativa;17/10/2026
+PAC_0750;Eduardo Pereira 96;16/09/1973;53;(11) 96047-1406;Sobrepeso e Obesidade;Pendente;Exames laboratoriais atrasados;04/10/2026
+PAC_0751;Lucas Almeida 17;22/12/1969;56;(11) 94197-9625;DM;Pendente;Consulta médica semestral pendente;06/10/2026
+PAC_0752;Vanessa Ramos 67;08/12/1964;61;(11) 92431-9385;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;26/05/2026
+PAC_0753;Thiago Moura 17;14/12/1949;76;(11) 96915-7513;DM;Pendente;Consulta médica semestral pendente;24/07/2026
+PAC_0754;Ana Silva 46;16/05/1986;40;(11) 96047-8300;Gestantes;Em dia;Nenhuma pendencia ativa;06/07/2026
+PAC_0755;Patricia Gomes 66;19/08/1990;36;(11) 97944-7786;DM;Abandono;Sem contato ha mais de 180 dias na linha;21/09/2026
+PAC_0756;Gabriel Costa 48;18/02/1978;48;(11) 96495-2083;Gestantes;Pendente;Exames laboratoriais atrasados;Sem registro
+PAC_0757;Igor Ferreira 63;28/01/1997;29;(11) 98571-3243;DM;Em dia;Nenhuma pendencia ativa;08/06/2026
+PAC_0758;Sabrina Castro 15;17/06/1956;70;(11) 95979-9095;Gestantes;Pendente;Exames laboratoriais atrasados;Sem registro
+PAC_0759;Ana Silva 29;09/06/1992;34;(11) 98742-3034;Saúde Mental;Pendente;Consulta médica semestral pendente;24/06/2026
+PAC_0760;Helena Carvalho 13;19/06/2001;25;(11) 99078-2093;Gestantes;Pendente;Avaliação nutricional pendente;08/07/2026
+PAC_0761;Igor Ferreira 90;18/03/1965;61;(11) 92959-7114;Gestantes;Pendente;Exames laboratoriais atrasados;16/09/2026
+PAC_0762;William Cunha 17;29/05/1999;27;(11) 98553-3219;DLP;Em dia;Nenhuma pendencia ativa;12/07/2026
+PAC_0763;Mariana Ribeiro 16;14/06/1990;36;(11) 99677-2258;Gestantes;Em dia;Nenhuma pendencia ativa;15/04/2026
+PAC_0764;Daniela Souza 86;24/08/1960;66;(11) 99908-6285;DLP;Abandono;Sem contato ha mais de 180 dias na linha;11/08/2026
+PAC_0765;Igor Ferreira 97;30/11/1963;62;(11) 96939-2570;Gestantes;Pendente;Exames laboratoriais atrasados;Sem registro
+PAC_0766;Thiago Moura 46;08/03/1985;41;(11) 97750-6575;DM;Em dia;Nenhuma pendencia ativa;01/09/2026
+PAC_0767;Gabriel Costa 81;27/11/1968;57;(11) 99612-9717;Saúde Mental;Pendente;Exames laboratoriais atrasados;08/10/2026
+PAC_0768;Daniela Souza 26;12/11/1949;77;(11) 98856-6705;DLP;Pendente;Exames laboratoriais atrasados;28/05/2026
+PAC_0769;Thiago Moura 53;10/11/1996;29;(11) 95991-1471;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;03/05/2026
+PAC_0770;Eduardo Pereira 98;05/06/1994;32;(11) 93053-4438;DM;Abandono;Sem contato ha mais de 180 dias na linha;15/04/2026
+PAC_0771;Daniela Souza 19;04/03/2007;19;(11) 98065-1696;DM;Em dia;Nenhuma pendencia ativa;18/06/2026
+PAC_0772;William Cunha 17;14/09/1978;48;(11) 95145-1709;HAS;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0773;Daniela Souza 25;16/01/1950;76;(11) 94365-4277;DM;Pendente;Exames laboratoriais atrasados;Sem registro
+PAC_0774;Igor Ferreira 84;15/05/1986;40;(11) 93630-9202;Saúde Mental;Pendente;Avaliação nutricional pendente;02/10/2026
+PAC_0775;William Cunha 11;26/07/1975;51;(11) 94138-5617;DM;Abandono;Sem contato ha mais de 180 dias na linha;25/04/2026
+PAC_0776;Daniela Souza 37;07/03/1950;76;(11) 98777-7004;Saúde Mental;Pendente;Consulta médica semestral pendente;30/09/2026
+PAC_0777;Fernanda Lima 55;11/05/1946;80;(11) 97948-4510;Gestantes;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0778;Lucas Almeida 25;18/09/1979;47;(11) 99515-3226;Sobrepeso e Obesidade;Pendente;Avaliação nutricional pendente;26/04/2026
+PAC_0779;Bruno Santos 20;03/03/1988;38;(11) 92895-7304;DLP;Em dia;Nenhuma pendencia ativa;05/05/2026
+PAC_0780;Rafael Barbosa 38;20/04/1973;53;(11) 95761-8011;DM;Abandono;Sem contato ha mais de 180 dias na linha;28/06/2026
+PAC_0781;Mariana Ribeiro 32;26/11/2007;18;(11) 99055-2723;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;06/10/2026
+PAC_0782;Daniela Souza 28;21/04/1983;43;(11) 92666-3764;HAS;Em dia;Nenhuma pendencia ativa;06/09/2026
+PAC_0783;Yasmin Rocha 61;11/07/2001;25;(11) 97958-9177;DLP;Pendente;Avaliação nutricional pendente;17/04/2026
+PAC_0784;Nicolas Martins 55;07/12/1977;48;(11) 97626-8938;Gestantes;Em dia;Nenhuma pendencia ativa;30/09/2026
+PAC_0785;Daniela Souza 42;04/03/1977;49;(11) 94781-3205;HAS;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0786;Carlos Oliveira 73;03/11/1965;61;(11) 93934-7269;Gestantes;Pendente;Exames laboratoriais atrasados;21/05/2026
+PAC_0787;Daniela Souza 19;23/02/1966;60;(11) 99064-8635;DM;Em dia;Nenhuma pendencia ativa;20/06/2026
+PAC_0788;Igor Ferreira 79;08/02/1987;39;(11) 99955-1289;HAS;Abandono;Sem contato ha mais de 180 dias na linha;27/09/2026
+PAC_0789;Nicolas Martins 67;02/05/1988;38;(11) 98250-8531;HAS;Em dia;Nenhuma pendencia ativa;11/08/2026
+PAC_0790;Fernanda Lima 72;05/09/1981;45;(11) 96119-7374;Sobrepeso e Obesidade;Pendente;Avaliação nutricional pendente;12/05/2026
+PAC_0791;Vanessa Ramos 97;26/01/1974;52;(11) 98697-8797;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;19/07/2026
+PAC_0792;Igor Ferreira 73;06/05/1971;55;(11) 96779-5660;DLP;Em dia;Nenhuma pendencia ativa;25/09/2026
+PAC_0793;Mariana Ribeiro 54;24/01/1957;69;(11) 91440-6591;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;28/07/2026
+PAC_0794;Patricia Gomes 54;03/12/2004;21;(11) 95001-5056;DM;Pendente;Avaliação nutricional pendente;Sem registro
+PAC_0795;Carlos Oliveira 49;19/05/2001;25;(11) 93781-1322;Gestantes;Em dia;Nenhuma pendencia ativa;11/07/2026
+PAC_0796;William Cunha 75;19/04/1951;75;(11) 95368-1334;Saúde Mental;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0797;Lucas Almeida 58;29/04/1972;54;(11) 96282-2601;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;02/08/2026
+PAC_0798;Sabrina Castro 74;12/12/1956;69;(11) 96563-3730;Gestantes;Em dia;Nenhuma pendencia ativa;06/09/2026
+PAC_0799;Sabrina Castro 91;12/10/1954;72;(11) 99779-4507;DLP;Em dia;Nenhuma pendencia ativa;03/06/2026
+PAC_0800;Nicolas Martins 38;29/09/1969;57;(11) 92552-6518;DLP;Em dia;Nenhuma pendencia ativa;28/06/2026
+PAC_0801;Patricia Gomes 36;03/10/1986;40;(11) 95945-9268;DLP;Em dia;Nenhuma pendencia ativa;06/09/2026
+PAC_0802;Patricia Gomes 61;26/12/1991;34;(11) 99443-8425;Saúde Mental;Pendente;Exames laboratoriais atrasados;20/05/2026
+PAC_0803;Thiago Moura 33;04/03/1972;54;(11) 94489-8656;DLP;Abandono;Sem contato ha mais de 180 dias na linha;23/05/2026
+PAC_0804;Patricia Gomes 82;01/01/1962;64;(11) 91981-9556;DM;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0805;Eduardo Pereira 97;17/06/1960;66;(11) 98133-7721;DLP;Abandono;Sem contato ha mais de 180 dias na linha;18/05/2026
+PAC_0806;Gabriel Costa 62;17/06/1991;35;(11) 93631-5201;Saúde Mental;Pendente;Consulta médica semestral pendente;19/09/2026
+PAC_0807;Gabriel Costa 13;04/06/1993;33;(11) 98604-8952;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;18/10/2026
+PAC_0808;Gabriel Costa 30;02/09/1991;35;(11) 91477-5233;DLP;Pendente;Exames laboratoriais atrasados;17/10/2026
+PAC_0809;Sabrina Castro 12;25/09/2005;21;(11) 96143-5882;HAS;Abandono;Sem contato ha mais de 180 dias na linha;26/07/2026
+PAC_0810;Carlos Oliveira 60;10/09/1948;78;(11) 94867-2833;Gestantes;Pendente;Exames laboratoriais atrasados;01/06/2026
+PAC_0811;Thiago Moura 42;28/09/1977;49;(11) 94900-3003;DLP;Em dia;Nenhuma pendencia ativa;20/07/2026
+PAC_0812;Helena Carvalho 64;28/08/1995;31;(11) 92750-3869;DM;Abandono;Sem contato ha mais de 180 dias na linha;23/08/2026
+PAC_0813;William Cunha 17;13/02/1977;49;(11) 97139-2850;DLP;Em dia;Nenhuma pendencia ativa;25/08/2026
+PAC_0814;Igor Ferreira 28;13/03/1985;41;(11) 97025-6049;HAS;Pendente;Avaliação nutricional pendente;Sem registro
+PAC_0815;Bruno Santos 98;12/12/1949;76;(11) 94926-5144;Gestantes;Em dia;Nenhuma pendencia ativa;01/05/2026
+PAC_0816;Mariana Ribeiro 97;07/02/2001;25;(11) 94872-8248;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;23/08/2026
+PAC_0817;Juliana Rodrigues 21;23/07/1949;77;(11) 95872-4446;DM;Abandono;Sem contato ha mais de 180 dias na linha;16/05/2026
+PAC_0818;Patricia Gomes 14;30/09/1991;35;(11) 99055-8718;Saúde Mental;Em dia;Nenhuma pendencia ativa;27/04/2026
+PAC_0819;Patricia Gomes 22;28/08/1956;70;(11) 95275-9295;HAS;Em dia;Nenhuma pendencia ativa;09/06/2026
+PAC_0820;Lucas Almeida 68;02/11/1964;62;(11) 91853-4010;Saúde Mental;Em dia;Nenhuma pendencia ativa;27/10/2026
+PAC_0821;Nicolas Martins 35;12/06/1968;58;(11) 96140-2347;HAS;Em dia;Nenhuma pendencia ativa;14/05/2026
+PAC_0822;Eduardo Pereira 86;20/04/1965;61;(11) 96233-8397;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0823;Fernanda Lima 97;01/06/1971;55;(11) 95616-4254;HAS;Em dia;Nenhuma pendencia ativa;23/07/2026
+PAC_0824;William Cunha 38;26/10/2007;19;(11) 94747-2457;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;14/09/2026
+PAC_0825;Bruno Santos 61;10/04/1969;57;(11) 95262-3445;HAS;Abandono;Sem contato ha mais de 180 dias na linha;04/06/2026
+PAC_0826;Daniela Souza 11;21/02/1963;63;(11) 98129-8433;Saúde Mental;Em dia;Nenhuma pendencia ativa;05/09/2026
+PAC_0827;Gabriel Costa 44;02/03/1990;36;(11) 97259-3133;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;16/08/2026
+PAC_0828;Gabriel Costa 63;13/04/1997;29;(11) 93391-1471;DLP;Abandono;Sem contato ha mais de 180 dias na linha;04/07/2026
+PAC_0829;Helena Carvalho 57;30/11/1970;55;(11) 98506-2404;HAS;Em dia;Nenhuma pendencia ativa;03/05/2026
+PAC_0830;Nicolas Martins 97;27/04/1995;31;(11) 97935-5198;HAS;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0831;Lucas Almeida 40;16/05/1978;48;(11) 91745-1087;DLP;Em dia;Nenhuma pendencia ativa;18/07/2026
+PAC_0832;Mariana Ribeiro 26;08/02/1947;79;(11) 91673-3938;DLP;Em dia;Nenhuma pendencia ativa;02/08/2026
+PAC_0833;Rafael Barbosa 26;29/05/2003;23;(11) 99690-8093;DM;Em dia;Nenhuma pendencia ativa;25/09/2026
+PAC_0834;Sabrina Castro 45;17/05/1961;65;(11) 98046-5635;DLP;Pendente;Consulta médica semestral pendente;08/07/2026
+PAC_0835;Fernanda Lima 50;11/03/1961;65;(11) 93478-8208;HAS;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0836;Fernanda Lima 14;03/07/1978;48;(11) 93679-8653;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;23/06/2026
+PAC_0837;Bruno Santos 66;13/11/1985;40;(11) 98949-8499;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;20/09/2026
+PAC_0838;Daniela Souza 54;26/07/2003;23;(11) 95654-3959;DM;Pendente;Consulta médica semestral pendente;11/05/2026
+PAC_0839;William Cunha 37;13/11/1971;55;(11) 99618-3958;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;22/06/2026
+PAC_0840;Daniela Souza 52;14/06/2007;19;(11) 92998-7458;DLP;Pendente;Exames laboratoriais atrasados;18/09/2026
+PAC_0841;Ana Silva 20;16/11/1978;47;(11) 98861-8439;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;26/10/2026
+PAC_0842;Lucas Almeida 15;02/01/1967;59;(11) 98423-6323;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;04/06/2026
+PAC_0843;Eduardo Pereira 37;26/10/1953;73;(11) 95635-6294;HAS;Pendente;Avaliação nutricional pendente;22/07/2026
+PAC_0844;Carlos Oliveira 61;10/08/1992;34;(11) 94933-7535;HAS;Em dia;Nenhuma pendencia ativa;20/07/2026
+PAC_0845;Nicolas Martins 46;17/12/1966;59;(11) 93525-2975;DLP;Em dia;Nenhuma pendencia ativa;09/08/2026
+PAC_0846;Yasmin Rocha 26;06/12/1985;40;(11) 92574-7020;Gestantes;Em dia;Nenhuma pendencia ativa;20/07/2026
+PAC_0847;Sabrina Castro 44;12/01/1972;54;(11) 97931-2478;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;08/07/2026
+PAC_0848;Patricia Gomes 21;17/02/2006;20;(11) 96599-8594;Saúde Mental;Em dia;Nenhuma pendencia ativa;18/09/2026
+PAC_0849;Sabrina Castro 77;20/12/1967;58;(11) 99596-2375;DLP;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0850;Sabrina Castro 48;04/09/1999;27;(11) 95921-5073;Gestantes;Em dia;Nenhuma pendencia ativa;08/06/2026
+PAC_0851;Carlos Oliveira 15;19/09/1976;50;(11) 99366-7961;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;04/06/2026
+PAC_0852;Igor Ferreira 55;15/01/1992;34;(11) 92339-9248;HAS;Em dia;Nenhuma pendencia ativa;12/09/2026
+PAC_0853;Fernanda Lima 60;25/09/2006;20;(11) 97819-5876;DLP;Pendente;Consulta médica semestral pendente;04/07/2026
+PAC_0854;Yasmin Rocha 43;08/08/1987;39;(11) 94458-4032;HAS;Pendente;Avaliação nutricional pendente;08/05/2026
+PAC_0855;Daniela Souza 65;05/11/1974;52;(11) 91095-7470;HAS;Em dia;Nenhuma pendencia ativa;02/07/2026
+PAC_0856;Nicolas Martins 94;17/01/1947;79;(11) 98974-5961;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;04/05/2026
+PAC_0857;Nicolas Martins 48;04/09/2003;23;(11) 93213-1227;DM;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0858;Gabriel Costa 13;08/03/1995;31;(11) 93378-4961;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;12/06/2026
+PAC_0859;Gabriel Costa 21;18/03/1989;37;(11) 93427-8765;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;18/09/2026
+PAC_0860;Rafael Barbosa 72;03/11/1978;48;(11) 98364-4975;DM;Em dia;Nenhuma pendencia ativa;19/07/2026
+PAC_0861;Bruno Santos 52;14/09/2008;18;(11) 98074-7810;Sobrepeso e Obesidade;Pendente;Avaliação nutricional pendente;14/08/2026
+PAC_0862;Bruno Santos 72;09/03/1983;43;(11) 99410-8993;DM;Pendente;Avaliação nutricional pendente;Sem registro
+PAC_0863;William Cunha 50;13/10/1973;53;(11) 95388-7834;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;15/05/2026
+PAC_0864;Mariana Ribeiro 67;07/04/1964;62;(11) 91340-3643;DLP;Pendente;Consulta médica semestral pendente;29/08/2026
+PAC_0865;Thiago Moura 38;30/11/1970;55;(11) 96556-8675;DM;Abandono;Sem contato ha mais de 180 dias na linha;20/07/2026
+PAC_0866;Patricia Gomes 96;16/05/1967;59;(11) 98738-3654;Gestantes;Em dia;Nenhuma pendencia ativa;05/10/2026
+PAC_0867;Sabrina Castro 26;29/07/1997;29;(11) 93561-9063;HAS;Pendente;Consulta médica semestral pendente;04/09/2026
+PAC_0868;Vanessa Ramos 16;07/05/2007;19;(11) 95273-6849;Saúde Mental;Em dia;Nenhuma pendencia ativa;21/06/2026
+PAC_0869;Bruno Santos 18;05/04/1987;39;(11) 92867-4714;HAS;Pendente;Consulta médica semestral pendente;01/08/2026
+PAC_0870;Mariana Ribeiro 15;06/02/1959;67;(11) 95382-3476;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;01/10/2026
+PAC_0871;Bruno Santos 66;29/03/1957;69;(11) 92817-2734;Gestantes;Pendente;Exames laboratoriais atrasados;17/10/2026
+PAC_0872;Thiago Moura 23;21/12/1997;28;(11) 92934-4365;DLP;Em dia;Nenhuma pendencia ativa;06/07/2026
+PAC_0873;Thiago Moura 73;28/09/1962;64;(11) 93527-6959;DLP;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0874;Gabriel Costa 66;23/04/1946;80;(11) 91107-5019;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;06/10/2026
+PAC_0875;Igor Ferreira 57;19/04/1963;63;(11) 96908-5021;DM;Pendente;Avaliação nutricional pendente;30/08/2026
+PAC_0876;Eduardo Pereira 64;17/04/1982;44;(11) 98516-9456;Saúde Mental;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0877;Eduardo Pereira 11;26/02/1963;63;(11) 92140-2389;DLP;Em dia;Nenhuma pendencia ativa;15/09/2026
+PAC_0878;Patricia Gomes 17;25/10/1983;43;(11) 93473-1947;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;16/06/2026
+PAC_0879;Juliana Rodrigues 63;29/11/1982;43;(11) 95986-6139;DLP;Em dia;Nenhuma pendencia ativa;14/06/2026
+PAC_0880;Yasmin Rocha 28;24/04/1964;62;(11) 98310-4360;Gestantes;Pendente;Avaliação nutricional pendente;02/05/2026
+PAC_0881;Mariana Ribeiro 93;03/08/1983;43;(11) 95940-2380;HAS;Em dia;Nenhuma pendencia ativa;26/04/2026
+PAC_0882;Eduardo Pereira 76;22/06/1974;52;(11) 94501-2520;Gestantes;Pendente;Avaliação nutricional pendente;18/05/2026
+PAC_0883;Fernanda Lima 12;03/02/2007;19;(11) 95238-4954;DLP;Pendente;Avaliação nutricional pendente;Sem registro
+PAC_0884;Bruno Santos 57;24/12/1991;34;(11) 99314-6807;HAS;Em dia;Nenhuma pendencia ativa;26/09/2026
+PAC_0885;Rafael Barbosa 48;12/11/1972;54;(11) 98424-6553;DM;Abandono;Sem contato ha mais de 180 dias na linha;05/06/2026
+PAC_0886;Vanessa Ramos 86;14/05/1994;32;(11) 95902-5661;Saúde Mental;Pendente;Avaliação nutricional pendente;22/09/2026
+PAC_0887;Nicolas Martins 76;14/07/1961;65;(11) 92724-6371;Gestantes;Pendente;Consulta médica semestral pendente;20/09/2026
+PAC_0888;Patricia Gomes 62;21/09/2003;23;(11) 92018-7961;DM;Em dia;Nenhuma pendencia ativa;25/07/2026
+PAC_0889;Thiago Moura 61;02/02/1971;55;(11) 99502-7468;DLP;Pendente;Avaliação nutricional pendente;07/07/2026
+PAC_0890;Sabrina Castro 63;27/08/1956;70;(11) 93364-9286;DM;Em dia;Nenhuma pendencia ativa;30/04/2026
+PAC_0891;Thiago Moura 77;17/11/2000;25;(11) 94483-8461;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;06/06/2026
+PAC_0892;Mariana Ribeiro 25;20/04/1970;56;(11) 92807-2980;DLP;Pendente;Exames laboratoriais atrasados;27/09/2026
+PAC_0893;Mariana Ribeiro 49;09/06/1985;41;(11) 95816-8961;HAS;Pendente;Exames laboratoriais atrasados;12/07/2026
+PAC_0894;Bruno Santos 49;27/06/1952;74;(11) 94532-3999;Saúde Mental;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0895;Mariana Ribeiro 18;28/10/1953;73;(11) 97841-8883;Gestantes;Em dia;Nenhuma pendencia ativa;02/08/2026
+PAC_0896;Nicolas Martins 70;13/01/1955;71;(11) 93175-3269;Gestantes;Pendente;Consulta médica semestral pendente;19/09/2026
+PAC_0897;Lucas Almeida 21;03/01/1957;69;(11) 97711-7344;DM;Abandono;Sem contato ha mais de 180 dias na linha;16/10/2026
+PAC_0898;Rafael Barbosa 45;02/10/1967;59;(11) 93713-1406;Gestantes;Pendente;Avaliação nutricional pendente;15/05/2026
+PAC_0899;Daniela Souza 92;02/10/1973;53;(11) 94152-9877;Gestantes;Pendente;Avaliação nutricional pendente;18/04/2026
+PAC_0900;Sabrina Castro 74;11/11/1951;75;(11) 92970-9713;DM;Abandono;Sem contato ha mais de 180 dias na linha;05/09/2026
+PAC_0901;Helena Carvalho 84;30/09/1980;46;(11) 99741-6249;Sobrepeso e Obesidade;Pendente;Consulta médica semestral pendente;22/10/2026
+PAC_0902;Lucas Almeida 65;10/04/1997;29;(11) 91394-9649;DLP;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0903;Daniela Souza 79;15/06/1998;28;(11) 93359-3992;DLP;Pendente;Exames laboratoriais atrasados;15/07/2026
+PAC_0904;Fernanda Lima 17;02/06/1969;57;(11) 93973-1445;Saúde Mental;Em dia;Nenhuma pendencia ativa;07/08/2026
+PAC_0905;Eduardo Pereira 62;08/06/1951;75;(11) 95225-7152;HAS;Em dia;Nenhuma pendencia ativa;28/05/2026
+PAC_0906;William Cunha 40;26/02/1977;49;(11) 99264-7308;HAS;Em dia;Nenhuma pendencia ativa;08/06/2026
+PAC_0907;Patricia Gomes 18;30/10/1978;48;(11) 97676-4829;HAS;Em dia;Nenhuma pendencia ativa;08/05/2026
+PAC_0908;Daniela Souza 41;07/02/1960;66;(11) 93057-5990;Gestantes;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0909;Thiago Moura 36;07/09/1958;68;(11) 97116-9854;DM;Pendente;Avaliação nutricional pendente;07/06/2026
+PAC_0910;Rafael Barbosa 15;13/03/2008;18;(11) 95739-3742;HAS;Em dia;Nenhuma pendencia ativa;19/08/2026
+PAC_0911;Yasmin Rocha 42;06/12/1954;71;(11) 97228-6757;Saúde Mental;Em dia;Nenhuma pendencia ativa;16/08/2026
+PAC_0912;Bruno Santos 30;17/02/1961;65;(11) 92145-5925;HAS;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0913;Eduardo Pereira 81;03/04/1991;35;(11) 94454-9270;DLP;Abandono;Sem contato ha mais de 180 dias na linha;18/05/2026
+PAC_0914;Igor Ferreira 67;08/07/1991;35;(11) 96269-6597;DM;Em dia;Nenhuma pendencia ativa;23/10/2026
+PAC_0915;Eduardo Pereira 92;19/11/1949;77;(11) 98807-1070;HAS;Pendente;Consulta médica semestral pendente;02/05/2026
+PAC_0916;Sabrina Castro 60;04/10/1974;52;(11) 92270-9825;HAS;Abandono;Sem contato ha mais de 180 dias na linha;06/07/2026
+PAC_0917;Daniela Souza 55;13/05/1946;80;(11) 96864-7336;DM;Abandono;Sem contato ha mais de 180 dias na linha;25/10/2026
+PAC_0918;Daniela Souza 69;05/08/1985;41;(11) 98283-1153;DM;Pendente;Consulta médica semestral pendente;29/04/2026
+PAC_0919;Mariana Ribeiro 34;28/12/2002;23;(11) 95967-4623;DM;Abandono;Sem contato ha mais de 180 dias na linha;18/10/2026
+PAC_0920;Igor Ferreira 73;25/11/1950;75;(11) 94425-1116;DM;Abandono;Sem contato ha mais de 180 dias na linha;29/09/2026
+PAC_0921;Igor Ferreira 82;06/03/1976;50;(11) 93793-4174;Saúde Mental;Pendente;Avaliação nutricional pendente;05/06/2026
+PAC_0922;Fernanda Lima 18;11/09/1971;55;(11) 92065-3087;DLP;Abandono;Sem contato ha mais de 180 dias na linha;16/06/2026
+PAC_0923;Igor Ferreira 34;07/12/1953;72;(11) 91378-9731;Gestantes;Em dia;Nenhuma pendencia ativa;03/07/2026
+PAC_0924;Ana Silva 64;07/12/1966;59;(11) 91849-6292;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;26/09/2026
+PAC_0925;Thiago Moura 69;12/05/1977;49;(11) 99474-1712;Saúde Mental;Em dia;Nenhuma pendencia ativa;12/07/2026
+PAC_0926;Vanessa Ramos 67;08/11/1988;38;(11) 97420-4188;DLP;Em dia;Nenhuma pendencia ativa;21/10/2026
+PAC_0927;Helena Carvalho 98;05/10/1981;45;(11) 95095-4225;DM;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0928;Daniela Souza 13;06/04/1978;48;(11) 91393-6477;DLP;Em dia;Nenhuma pendencia ativa;01/08/2026
+PAC_0929;Bruno Santos 52;16/07/1975;51;(11) 92194-8184;HAS;Pendente;Avaliação nutricional pendente;Sem registro
+PAC_0930;Bruno Santos 14;04/06/1984;42;(11) 92065-3089;HAS;Abandono;Sem contato ha mais de 180 dias na linha;11/08/2026
+PAC_0931;Yasmin Rocha 90;10/10/1981;45;(11) 92668-1914;Gestantes;Em dia;Nenhuma pendencia ativa;17/07/2026
+PAC_0932;Daniela Souza 89;21/04/1960;66;(11) 94819-1173;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;22/05/2026
+PAC_0933;Yasmin Rocha 22;13/12/1986;39;(11) 91425-8439;Gestantes;Em dia;Nenhuma pendencia ativa;01/10/2026
+PAC_0934;Ana Silva 86;14/10/1963;63;(11) 94172-3064;Saúde Mental;Em dia;Nenhuma pendencia ativa;26/06/2026
+PAC_0935;Yasmin Rocha 66;07/07/1997;29;(11) 93255-1722;HAS;Em dia;Nenhuma pendencia ativa;18/06/2026
+PAC_0936;Mariana Ribeiro 49;11/02/1971;55;(11) 93385-3415;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;25/07/2026
+PAC_0937;Ana Silva 76;14/12/1970;55;(11) 93369-1939;DM;Em dia;Nenhuma pendencia ativa;14/10/2026
+PAC_0938;Patricia Gomes 54;29/07/1996;30;(11) 94297-2120;DLP;Em dia;Nenhuma pendencia ativa;03/05/2026
+PAC_0939;Rafael Barbosa 86;31/05/1964;62;(11) 96499-5909;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0940;Bruno Santos 73;08/11/1994;32;(11) 94654-4772;Sobrepeso e Obesidade;Pendente;Exames laboratoriais atrasados;04/08/2026
+PAC_0941;Nicolas Martins 36;10/08/1983;43;(11) 91110-6944;HAS;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0942;Daniela Souza 28;30/03/1990;36;(11) 94185-6896;HAS;Abandono;Sem contato ha mais de 180 dias na linha;16/08/2026
+PAC_0943;Fernanda Lima 38;08/07/1952;74;(11) 93855-6567;Gestantes;Em dia;Nenhuma pendencia ativa;12/09/2026
+PAC_0944;Igor Ferreira 22;25/11/2006;19;(11) 93248-7208;Saúde Mental;Pendente;Exames laboratoriais atrasados;04/09/2026
+PAC_0945;Juliana Rodrigues 68;04/05/1993;33;(11) 97100-3807;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;08/07/2026
+PAC_0946;Carlos Oliveira 25;03/09/1999;27;(11) 94107-4140;Gestantes;Em dia;Nenhuma pendencia ativa;27/05/2026
+PAC_0947;Patricia Gomes 91;17/10/1993;33;(11) 94098-9773;DLP;Pendente;Consulta médica semestral pendente;19/05/2026
+PAC_0948;Igor Ferreira 26;04/03/1954;72;(11) 99011-4428;Saúde Mental;Em dia;Nenhuma pendencia ativa;11/05/2026
+PAC_0949;Yasmin Rocha 18;21/02/1998;28;(11) 97358-9342;DLP;Em dia;Nenhuma pendencia ativa;06/08/2026
+PAC_0950;Mariana Ribeiro 77;14/03/1964;62;(11) 99106-8762;DLP;Pendente;Avaliação nutricional pendente;31/05/2026
+PAC_0951;Bruno Santos 36;29/07/1994;32;(11) 98406-4840;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;23/07/2026
+PAC_0952;William Cunha 30;13/05/1949;77;(11) 95170-2388;DM;Pendente;Consulta médica semestral pendente;29/07/2026
+PAC_0953;Helena Carvalho 84;13/03/2006;20;(11) 99392-6511;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;25/07/2026
+PAC_0954;Sabrina Castro 50;29/04/1991;35;(11) 91404-3942;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;28/07/2026
+PAC_0955;Carlos Oliveira 47;08/03/1955;71;(11) 99401-9956;Saúde Mental;Em dia;Nenhuma pendencia ativa;30/08/2026
+PAC_0956;Daniela Souza 25;06/05/2004;22;(11) 91627-9946;DM;Em dia;Nenhuma pendencia ativa;24/08/2026
+PAC_0957;Juliana Rodrigues 97;02/07/1954;72;(11) 94123-3258;Saúde Mental;Pendente;Consulta médica semestral pendente;Sem registro
+PAC_0958;Juliana Rodrigues 46;25/05/1956;70;(11) 97616-7647;Gestantes;Pendente;Exames laboratoriais atrasados;18/06/2026
+PAC_0959;Eduardo Pereira 60;16/07/1994;32;(11) 94438-8773;DM;Em dia;Nenhuma pendencia ativa;17/04/2026
+PAC_0960;Rafael Barbosa 69;29/09/1987;39;(11) 96129-4077;Sobrepeso e Obesidade;Pendente;Avaliação nutricional pendente;07/07/2026
+PAC_0961;Rafael Barbosa 81;29/04/2007;19;(11) 93276-3102;DLP;Abandono;Sem contato ha mais de 180 dias na linha;Sem registro
+PAC_0962;Mariana Ribeiro 53;09/04/1994;32;(11) 97974-7608;Saúde Mental;Em dia;Nenhuma pendencia ativa;22/10/2026
+PAC_0963;William Cunha 14;10/09/1949;77;(11) 93518-6410;Gestantes;Pendente;Avaliação nutricional pendente;03/06/2026
+PAC_0964;Nicolas Martins 58;23/04/1995;31;(11) 92043-9757;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0965;William Cunha 67;13/06/1968;58;(11) 92527-3808;HAS;Pendente;Exames laboratoriais atrasados;Sem registro
+PAC_0966;Yasmin Rocha 72;03/08/2007;19;(11) 94260-2138;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;12/05/2026
+PAC_0967;Thiago Moura 18;15/10/1979;47;(11) 97039-9495;HAS;Em dia;Nenhuma pendencia ativa;14/07/2026
+PAC_0968;Nicolas Martins 30;02/09/2001;25;(11) 99789-7855;Sobrepeso e Obesidade;Pendente;Consulta médica semestral pendente;05/09/2026
+PAC_0969;Eduardo Pereira 36;03/04/1989;37;(11) 98778-3601;Gestantes;Pendente;Consulta médica semestral pendente;21/06/2026
+PAC_0970;Rafael Barbosa 45;05/11/1996;30;(11) 93337-8302;HAS;Abandono;Sem contato ha mais de 180 dias na linha;25/08/2026
+PAC_0971;Thiago Moura 52;02/02/1950;76;(11) 99043-8539;Sobrepeso e Obesidade;Pendente;Avaliação nutricional pendente;Sem registro
+PAC_0972;Rafael Barbosa 54;18/11/1963;62;(11) 95873-7407;Gestantes;Abandono;Sem contato ha mais de 180 dias na linha;13/07/2026
+PAC_0973;Helena Carvalho 32;08/01/1951;75;(11) 98079-8501;Sobrepeso e Obesidade;Abandono;Sem contato ha mais de 180 dias na linha;04/06/2026
+PAC_0974;Daniela Souza 60;25/10/1964;62;(11) 94927-3587;DLP;Abandono;Sem contato ha mais de 180 dias na linha;10/05/2026
+PAC_0975;Carlos Oliveira 99;29/07/1962;64;(11) 99085-7738;Gestantes;Em dia;Nenhuma pendencia ativa;17/04/2026
+PAC_0976;Daniela Souza 74;05/06/1959;67;(11) 97719-8388;DM;Em dia;Nenhuma pendencia ativa;01/07/2026
+PAC_0977;Ana Silva 19;26/11/1967;58;(11) 98567-7244;DLP;Pendente;Exames laboratoriais atrasados;25/10/2026
+PAC_0978;Igor Ferreira 24;09/09/1963;63;(11) 96359-8606;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0979;Helena Carvalho 66;11/03/2000;26;(11) 95573-3643;DM;Abandono;Sem contato ha mais de 180 dias na linha;12/09/2026
+PAC_0980;Juliana Rodrigues 25;28/04/1974;52;(11) 93759-2271;Saúde Mental;Pendente;Avaliação nutricional pendente;07/07/2026
+PAC_0981;Mariana Ribeiro 32;23/10/1995;31;(11) 99721-4541;Sobrepeso e Obesidade;Pendente;Avaliação nutricional pendente;16/05/2026
+PAC_0982;Daniela Souza 59;12/06/1964;62;(11) 98274-1858;Gestantes;Em dia;Nenhuma pendencia ativa;06/09/2026
+PAC_0983;Helena Carvalho 57;21/07/1950;76;(11) 94276-2497;HAS;Em dia;Nenhuma pendencia ativa;02/08/2026
+PAC_0984;Gabriel Costa 97;15/10/1966;60;(11) 94613-2582;Saúde Mental;Em dia;Nenhuma pendencia ativa;13/07/2026
+PAC_0985;Thiago Moura 23;04/06/1956;70;(11) 96286-4105;Gestantes;Em dia;Nenhuma pendencia ativa;10/07/2026
+PAC_0986;Daniela Souza 39;16/09/1995;31;(11) 96842-6298;DM;Em dia;Nenhuma pendencia ativa;24/10/2026
+PAC_0987;Nicolas Martins 37;24/07/1979;47;(11) 92081-5562;Saúde Mental;Pendente;Exames laboratoriais atrasados;Sem registro
+PAC_0988;Gabriel Costa 62;08/01/1989;37;(11) 99185-2668;Saúde Mental;Em dia;Nenhuma pendencia ativa;04/06/2026
+PAC_0989;Fernanda Lima 42;04/10/1947;79;(11) 96314-7366;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;23/09/2026
+PAC_0990;Lucas Almeida 32;29/11/1967;58;(11) 96209-8899;HAS;Em dia;Nenhuma pendencia ativa;31/05/2026
+PAC_0991;Rafael Barbosa 58;22/12/1975;50;(11) 94808-9248;Gestantes;Pendente;Exames laboratoriais atrasados;23/05/2026
+PAC_0992;Daniela Souza 49;04/04/1993;33;(11) 94990-2300;HAS;Em dia;Nenhuma pendencia ativa;06/09/2026
+PAC_0993;Eduardo Pereira 58;16/12/1994;31;(11) 91621-4900;Saúde Mental;Pendente;Consulta médica semestral pendente;04/08/2026
+PAC_0994;Eduardo Pereira 45;17/12/1987;38;(11) 91648-9533;Sobrepeso e Obesidade;Pendente;Consulta médica semestral pendente;30/08/2026
+PAC_0995;Lucas Almeida 53;27/07/1993;33;(11) 99836-1885;Saúde Mental;Abandono;Sem contato ha mais de 180 dias na linha;02/05/2026
+PAC_0996;Helena Carvalho 87;08/05/1953;73;(11) 99543-6269;DM;Em dia;Nenhuma pendencia ativa;Sem registro
+PAC_0997;Sabrina Castro 18;15/08/1947;79;(11) 91853-3318;DM;Em dia;Nenhuma pendencia ativa;09/06/2026
+PAC_0998;Gabriel Costa 40;04/10/1976;50;(11) 97983-8652;DLP;Em dia;Nenhuma pendencia ativa;11/07/2026
+PAC_0999;Fernanda Lima 87;07/06/1993;33;(11) 95675-8344;Saúde Mental;Em dia;Nenhuma pendencia ativa;26/06/2026
+PAC_1000;Carlos Oliveira 56;03/05/1983;43;(11) 93748-8712;Sobrepeso e Obesidade;Em dia;Nenhuma pendencia ativa;09/07/2026
