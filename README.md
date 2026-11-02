@@ -1,13 +1,13 @@
-# Clinical Decision-Support System: Gestão de Linhas de Cuidado e Mitigação de Falso Abandono em APS
+# Sistema para mitigar falsos abandonos em acompanhamento clínico em um ambulatório de APS na saúde suplementar
 
 ## Visão Geral do Projeto
 
-Na Atenção Primária à Saúde (APS) e na Saúde Populacional, o acompanhamento de condições crônicas (como Hipertensão Arterial Sistêmica, Diabetes Mellitus e Dislipidemia) depende da continuidade do cuidado. Um dos principais desafios operacionais em programas de saúde preventiva é a identificação errônea de falso abandono: pacientes rotulados como inativos ou desvinculados do programa de acompanhamento, mas que mantêm consultas ativas com o Médico de Família e Comunidade (MFC) para queixas pontuais ou renovação de receitas.
+Na Atenção Primária à Saúde (APS) o acompanhamento de condições crônicas (como Hipertensão Arterial Sistêmica, Diabetes Mellitus e Dislipidemia) depende da continuidade do cuidado. Um dos principais desafios operacionais em programas de saúde preventiva é a identificação errônea de falso abandono: pacientes rotulados como inativos ou desvinculados do programa de acompanhamento, mas que mantêm consultas ativas com o Médico de Família e Comunidade (MFC).
 
 Essa falha de fluxo gera impactos críticos:
-- Desassistência Clínica: Pacientes crônicos perdem rastreios periódicos de complicações e exames laboratoriais essenciais.
-- Inconsistência de Indicadores: Métricas populacionais e metas de acreditação de qualidade apresentam taxas de adesão defasadas.
-- Inércia Operacional: A equipe multiprofissional não aproveita a presença física do paciente na unidade para realizar a reativação da linha de cuidado.
+- Pacientes perdem rastreios periódicos 
+- Inconsistência de Indicadores: Métricas populacionais e metas de acreditação de qualidade apresentam taxas de adesão defasadas
+- A equipe multiprofissional não aproveita a presença física do paciente na unidade para realizar a reativação da linha de cuidado
 
 Este projeto entrega uma solução de ponta a ponta: desde o processamento e modelagem dos dados em Python até a implementação de uma ferramenta de suporte à decisão clínica no ponto de cuidado via Google Apps Script.
 
@@ -26,7 +26,7 @@ Na simulação analítica realizada com uma população de 1.000 vidas:
 
 ## Tecnologias e Metodologias
 
-- Linguagem Principal: Python 3.10+
+- Linguagem Principal: Python 
 - Manipulação de Dados: Pandas, NumPy
 - Geração de Dados Sintéticos: Faker (com seed fixada para garantia de reprodutibilidade estrita)
 - Visualização de Dados: Matplotlib
@@ -43,7 +43,7 @@ Na simulação analítica realizada com uma população de 1.000 vidas:
 │   └── pipeline_analise_populacional.py  # Tratamento, regras e gráficos
 ├── scripts/
 │   └── automacao_agenda.js           # Código Google Apps Script para a agenda
-├── README.md                         # Documentação executiva do projeto
+├── README.md                         # Documentação do projeto
 └── requirements.txt                  # Dependências do projeto Python
 ```
 
