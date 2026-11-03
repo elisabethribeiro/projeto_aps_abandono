@@ -43,7 +43,7 @@ Este projeto entrega uma solução de ponta a ponta:desde a análise e limpeza d
    - Criação de menu dinâmico no cabeçalho da planilha (`onOpen`).
    - Algoritmo otimizado com tabela hash (`Map()`) para validação em lote dos pacientes agendados.
    - Retorno em tempo real do status assistencial (`Pendente`, `Abandono`, `Em dia`) diretamente na agenda, alertando o médico antes do atendimento.
-
+4. **Camada de Inteligência Artificial e Recomendações (Google GenAI / Gemini)**: Agente de IA (`APSRiskAdvisorAgentGoogle`) integrado via API que analisa os indicadores consolidados de absenteísmo e elabora automaticamente um relatório com planos de ação práticos e prioridades estratégicas para os gestores da unidade.
 ---
 
 ## Principais Resultados
@@ -60,7 +60,7 @@ Na simulação analítica executada sobre a coorte sintética de 1.000 vidas:
 - Python (Colab): Pandas, NumPy e Faker (para geração de dados sintéticos).
 - Visualização: Matplotlib.
 - Planilhas e Automação: Google Sheets e Google Apps Script (JavaScript).
-
+- Inteligência Artificial Generativa: Google GenAI SDK, Google Gemini API (`gemini-2.5-flash`)
 ---
 
 ## Estrutura do Repositório
@@ -71,6 +71,8 @@ Na simulação analítica executada sobre a coorte sintética de 1.000 vidas:
 │   └── agenda.csv                    # Simulação de agenda diária do ambulatório
 ├── notebooks/
 │   └── pipeline_analise_populacional.py  # Script executável no Google Colab
+├── reports/
+│   └── relatorio_recomendacoes_ia.md # Plano de ação estratégico gerado por IA
 ├── scripts/
 │   └── automacao_agenda.js           # Código executado no Google Apps Script
 ├── README.md                         # Documentação do projeto
@@ -98,6 +100,12 @@ Na simulação analítica executada sobre a coorte sintética de 1.000 vidas:
 6. Atualize a página do Google Planilhas (`F5`).
 7. Acesse o menu **Ações Clínicas** > **Atualizar Status LC** para executar a classificação dos pacientes agendados.
 
+### 3. Agente de Recomendações Estratégicas com IA
+Para gerar o plano de ação analítico via IA:
+1. Configure a variável de ambiente com a sua chave: `export GEMINI_API_KEY="sua_chave"` (ou configure nos secrets do Colab).
+2. Execute o script:
+   ```bash
+   python scripts/agente_recomendacoes_ia.py
 ---
 
 ## Conformidade Ética e Proteção de Dados (LGPD)
